@@ -4,15 +4,13 @@ S. Martini Episcopi et Confessoris;;Duplex;;3;;vide C4a
 [Rule]
 vide C4a;
 9 lectiones
-Psalm5 Vespera=116
-Psalm5 Vespera3=131
 
-[Ant Vespera 3]
-Dixérunt discípuli * ad beátum Martínum: Cur nos, pater, déseris, aut cui nos desolátos relínquis? Invádent enim gregem tuum lupi rapáces.;;109
-Dómine, * si adhuc pópulo tuo sum necessárius, non recúso labórem: fiat volúntas tua.;;110
-O virum ineffábilem, * nec labóre victum, nec morte vincéndum, qui nec mori tímuit, nec vívere recusávit!;;111
-Oculis ac mánibus * in cælum semper inténtus, invíctum ab oratióne spíritum non relaxábat, allelúja.;;112
-Martínus * Abrahæ sinu lætus excípitur: Martínus, hic pauper et módicus, cælum dives ingréditur, hymnis cæléstibus honorátur.;;131
+[Ant Vespera]
+Dixérunt discípuli * ad beátum Martínum: Cur nos, pater, déseris, aut cui nos desolátos relínquis? Invádent enim gregem tuum lupi rapáces.
+Dómine, * si adhuc pópulo tuo sum necessárius, non recúso labórem: fiat volúntas tua.
+O virum ineffábilem, * nec labóre victum, nec morte vincéndum, qui nec mori tímuit, nec vívere recusávit!
+Oculis ac mánibus * in cælum semper inténtus, invíctum ab oratióne spíritum non relaxábat, allelúja.
+Martínus * Abrahæ sinu lætus excípitur: Martínus, hic pauper et módicus, cælum dives ingréditur, hymnis cæléstibus honorátur.
 
 [Ant 1]
 O beátum virum, * cujus ánima paradísum póssidet! Unde exsúltant Angeli, lætántur Archángeli, chorus Sanctórum proclámat, turba Vírginum invítat: Mane nobíscum in ætérnum.
@@ -42,9 +40,9 @@ Tetrádius, * cógnita Dei virtúte, ad baptísmi grátiam pervénit.;;5
 O ineffábilem virum, * per quem nobis tanta mirácula corúscant!;;8
 V. Elégit eum Dóminus sacerdótem sibi.
 R. Ad sacrificándum ei hóstiam laudis.
-Dóminus Jesus Christus, * non purpurátum aut diadémate renítentem, se ventúrum esse prædíxit.;;10
-Sacérdos Dei, Martíne, * aperti sunt tibi cæli et regnum Patris mei.;;14
-Sacérdos Dei, Martíne, * pastor egregie, ora pro nobis Deum.;;20
+Dóminus Jesus Christus, * non purpurátum aut diadémate reniténtem, se ventúrum esse prædíxit.;;10
+Sacérdos Dei, Martíne, * apérti sunt tibi cæli et regnum Patris mei.;;14
+Sacérdos Dei, Martíne, * pastor egrégie, ora pro nobis Deum.;;20
 V. Tu es sacérdos in ætérnum.
 R. Secúndum órdinem Melchísedech.
 
@@ -75,10 +73,10 @@ R. O beátum virum Martínum antístitem,
 V. Dómine, si adhuc pópulo tuo sum necessárius, non recúso labórem: fiat volúntas tua.
 R. Qui nec mori tímuit, nec vívere recusávit!
 &Gloria
-R. Qui nec mori timuit, nec vívere recusavit!
+R. Qui nec mori tímuit, nec vívere recusavit!
 
 [Lectio4]
-Martínus, Sabáriæ in Pannónia natus, cum décimum attigísset annum, invitis paréntibus ad ecclésiam confúgiens, in catechumenórum númerum adscribi vóluit. Quindecim annos natus in milítiam profectus, primum in Constantii, deinde Juliáni exercitu militávit. Qui, cum nihil haberet præter arma et vestiméntum quo tegebátur, Ambiáni, páuperi ac nudo, ab eo peténti ut Christi nómine sibi eleemosynam tribúeret, partem chlámydis dedit. Cui sequénti nocte Christus, dimidiáta illa veste indútus, appáruit, hanc mittens vocem: Martínus catechumenus hac me veste contéxit.
+Martínus, Sabáriæ in Pannónia natus, cum décimum attigísset annum, invitis paréntibus ad ecclésiam confúgiens, in catechumenórum númerum adscribi vóluit. Quindecim annos natus in milítiam profectus, primum in Constantii, deínde Juliáni exercitu militávit. Qui, cum nihil haberet præter arma et vestiméntum quo tegebátur, Ambiáni, páuperi ac nudo, ab eo peténti ut Christi nómine sibi eleemosynam tribúeret, partem chlámydis dedit. Cui sequénti nocte Christus, dimidiáta illa veste indútus, appáruit, hanc mittens vocem: Martínus catechumenus hac me veste contéxit.
 
 [Responsory4]
 R. Oculis ac mánibus in cælum semper intentus, 
@@ -101,7 +99,7 @@ Sed, cum eum in illa veheménti febre supinum orántem vidérent discípuli, sup
 [Responsory6]
 R. Dixérunt discípuli ad beátum Martínum: Cur nos, pater, déseris, aut cui nos desolatos relinquis? 
 * Invadent enim gregem tuum lupi rapáces.
-V. Scimus quidem desiderare te Christum, sed salva sunt tibi tua præmia: nostri potius miserére, quos déseris.
+V. Scimus quidem desideráre te Christum, sed salva sunt tibi tua præmia: nostri potius miserére, quos déseris.
 R. Invadent enim gregem tuum lupi rapáces.
 &Gloria
 R. Invadent enim gregem tuum lupi rapáces.
@@ -113,11 +111,11 @@ Martínus, Sabáriæ in Pannónia natus, cum décimum attigísset annum, invíti
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
 !Luc 11:33-36
-In illo témpore: Dixit Jesus discípulis suis: Nemo lucérnam accéndit et in abscóndito ponit neque sub módio, sed supra candelabrum, ut qui ingrediúntur, lumen vídeant. Et réliqua.
+In illo témpore: Dixit Jesus discípulis suis: Nemo lucérnam accéndit et in abscóndito ponit neque sub módio, sed supra candelábrum, ut qui ingrediúntur, lumen vídeant. Et réliqua.
 _
 Homilía sancti Ambrósii Epíscopi
 !Liber 7 Comment. in Luc. cap. 11, post initium
-Quia in superióribus Ecclésiam Synagogæ prætulit, hortátur nos ut fidem potius nostram ad Ecclésiam transferamus. Lucerna enim fides est, juxta quod scriptum est: Lucerna pédibus meis verbum tuum, Dómine. Verbum enim Dei fides nostra est; Verbum Dei lux est; Lucerna est fides: Erat Lux vera, quæ illúminat omnem hóminem veniéntem in hunc mundum. Lucerna autem lucére non potest, nisi aliunde lumen accéperit.
+Quia in superióribus Ecclésiam Synagógæ prǽtulit, hortátur nos ut fidem pótius nostram ad Ecclésiam transferámus. Lucérna enim fides est, juxta quod scriptum est: Lucérna pédibus meis verbum tuum, Dómine. Verbum enim Dei fides nostra est; Verbum Dei lux est; Lucérna est fides: Erat Lux vera, quæ illúminat omnem hóminem veniéntem in hunc mundum. Lucérna autem lucére non potest, nisi aliúnde lumen accéperit.
 
 [Responsory7]
 R. O beátum virum, in cujus transitu Sanctórum canit númerus, Angelórum exsultat chorus,
@@ -126,7 +124,7 @@ V. Ecclésia virtúte roborátur, sacerdótes Dei revelatióne glorificántur, q
 R. Omniumque cæléstium Virtutum occurrit psalléntium exercitus!
 
 [Lectio8]
-Hæc est Lucerna quæ accénditur, virtus scilicet nostræ mentis et sensus, ut drachma illa possit, quæ períerat, reperiri. Nemo ergo fidem sub lege constituat; lex enim intra mensúram est, ultra mensúram grátia; lex obumbrat, grátia clarificat. Et ideo nemo fidem suam intra mensúram legis includat, sed ad Ecclésiam cónferat, in qua septiformis Spíritus relucet grátia, quam Princeps ille sacerdotum fulgóre supernæ divinitátis illúminat, ne eam legis umbra restinguat. Denique lucérna illa, quam matutínis vespertinisque tempóribus, ritu veteri Judæórum, princeps sacerdotum solebat accéndere, velut sub módio sita legis, evanuit; et cívitas illa Jerúsalem quæ in terris est, quæ occídit prophétas, quasi in convalle fletus posita delitescit. Illa autem Jerúsalem quæ in cælo est, in qua militat fides nostra, in illo altíssimo ómnium locáta monte, hoc est Christo, non potest ténebris et ruínis hujus mundi abscóndi; sed fulgens candore Solis æterni, luce nos gratiæ spiritalis illúminat.
+Hæc est Lucérna quæ accénditur, virtus scílicet nostræ mentis et sensus, ut drachma illa possit, quæ períerat, reperíri. Nemo ergo fidem sub lege constítuat; lex enim intra mensúram est, ultra mensúram grátia; lex obúmbrat, grátia claríficat. Et ideo nemo fidem suam intra mensúram legis inclúdat, sed ad Ecclésiam cónferat, in qua septifórmis Spíritus relúcet grátia, quam Princeps ille sacerdótum fulgóre supérnæ divinitátis illúminat, ne eam legis umbra restínguat. Dénique lucérna illa, quam matutínis vespertinísque tempóribus, ritu veteri Judæórum, princeps sacerdótum solébat accéndere, velut sub módio sita legis, evánuit; et cívitas illa Jerúsalem quæ in terris est, quæ occídit prophétas, quasi in conválle fletus pósita delitéscit. Illa autem Jerúsalem quæ in cælo est, in qua mílitat fides nostra, in illo altíssimo ómnium locáta monte, hoc est Christo, non potest ténebris et ruínis hujus mundi abscóndi; sed fulgens candóre Solis ætérni, luce nos grátiæ spiritális illúminat.
 
 [Responsory8]
 R. Martínus Abrahæ sinu lætus excipitur: Martínus, hic pauper et módicus, 
@@ -138,18 +136,14 @@ R. Cælum dives ingréditur, hymnis cæléstibus honorátur.
 
 [Lectio93]
 !Commemoratio Pro S. Menna Mart.
-Mennas Ægyptius, christianus miles, in persecutióne Diocletiáni et Maximiáni imperatórum, cum pœniténtiæ causa in solitúdinem secessísset, natali die imperatórum, quo pópulus célebri spectaculo tenebátur, in theatrum prosiliens, líbera voce Gentílium superstitiónem insectabátur. Quam ob rem comprehénsus, et, Pyrrho præside, in metrópoli Cottiénsium Phrygiæ vinctus, loris crudeliter cœditur. Deinde, equuleo tortus, lampadibus ardéntibus ad corpus admotis plagisque cilício confricatis, tum per tribulos et virgas férreas mánibus ac pédibus colligátis tractus, plumbátis étiam contusus, demum gládio interfícitur in ignemque conjícitur. Corpus, inde a Christiánis ereptum, sepúltum est ac póstea Constantinópolim translátum.
+Mennas Ægyptius, christianus miles, in persecutióne Diocletiáni et Maximiáni imperatórum, cum pœniténtiæ causa in solitúdinem secessísset, natali die imperatórum, quo pópulus célebri spectaculo tenebátur, in theatrum prosiliens, líbera voce Gentílium superstitiónem insectabátur. Quam ob rem comprehénsus, et, Pyrrho præside, in metrópoli Cottiénsium Phrygiæ vinctus, loris crudeliter cœditur. Deínde, equuleo tortus, lampadibus ardéntibus ad corpus admotis plagisque cilício confricatis, tum per tribulos et virgas férreas mánibus ac pédibus colligátis tractus, plumbátis étiam contusus, demum gládio interfícitur in ignemque conjícitur. Corpus, inde a Christiánis ereptum, sepúltum est ac póstea Constantinópolim translátum.
 &teDeum
 
 [Ant Laudes]
-Dixérunt discípuli * ad beátum Martínum: Cur nos, pater, déseris, aut cui nos desolátos relínquis? Invádent enim gregem tuum lupi rapáces.
-Dómine, * si adhuc pópulo tuo sum necessárius, non recúso labórem: fiat volúntas tua.
-O virum ineffábilem, * nec labóre victum, nec morte vincéndum, qui nec mori tímuit, nec vívere recusávit!
-Oculis ac mánibus * in cælum semper inténtus, invíctum ab oratióne spíritum non relaxábat, allelúja.
-Martínus * Abrahæ sinu lætus excípitur: Martínus, hic pauper et módicus, cælum dives ingréditur, hymnis cæléstibus honorátur.
+@:Ant Vespera
 
 [Ant 2]
 @:Ant 1
 
 [Ant 3]
-O beátum Pontíficem, * qui totis viscéribus diligébat Christum Regem, et non formidábat impérii principátum! o sanctíssima anima, quam etsi gládius persecutóris non ábstulit, palmam tamen martýrii non amísit!
+O beátum Pontíficem, * qui totis viscéribus diligébat Christum Regem, et non formidábat impérii principátum! o sanctíssima ánima, quam etsi gládius persecutóris non ábstulit, palmam tamen martýrii non amísit!

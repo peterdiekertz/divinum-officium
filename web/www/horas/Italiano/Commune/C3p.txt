@@ -91,7 +91,7 @@ V. Il mondo godrà, voi invece sarete tristi. Ma la vostra tristezza.
 R. Si cambierà in gioia, alleluia, alleluia.
 
 [Lectio3]
-!Rom 8:35-39    
+!Rom 8:35-39
 35 Chi ci dividerà adunque dalla carità dì Cristo? forse la tribolazione? forse l'angustia? forse la fame? forse la nudità? forse il pericolo? forse la persecuzione? forse la spada? 
 36 (Conforme sta scritto: Per te noi siamo ogni dì messi a morte siam riputati come pecore da macello). 
 37 Ma di tutte queste cose siam più che vincitori per colui che ci ha amati. 
@@ -184,9 +184,6 @@ I giusti risplenderanno * come il sole dinanzi a Dio, alleluia.
 !Sap 5:1
 v. I giusti staranno con grande sicurezza dinanzi a coloro che li oppressero e depredarono il frutto delle loro fatiche.
 $Deo gratias
-
-[Hymnus Laudes]
-@Commune/C3:Hymnus Laudes
 
 [Versum 2]
 V. Preziosa è agli occhi del Signore, alleluia,

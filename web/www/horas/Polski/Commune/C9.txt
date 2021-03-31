@@ -30,7 +30,8 @@ _
 &pater_noster
 _
 &psalm(145)
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
+_
 V. Od wrót piekielnych.
 R. Wybaw dusze ich, Panie.
 V. Niech odpoczywają w pokoju.
@@ -75,7 +76,7 @@ Królowi, któremu wszystko żyje, * Pójdźcie, pokłońmy się.
 
 [Ant Matutinum]
 Prostuj, * Panie, Boże mój, przed obliczem twojem drogę moję.;;5
-Nawróć się, * Panie, a wyrwij duszę moję: albowiem w śmierci niemasz, ktoby na cię pamiętał..;;6
+Nawróć się, * Panie, a wyrwij duszę moję: albowiem w śmierci niemasz, ktoby na cię pamiętał.;;6
 By kiedy nie porwał * jako lew dusze mojéj, gdy niemasz, ktoby odkupił, ani ktoby wybawił.;;7
 V. Od wrót piekielnych.
 R. Wybaw dusze ich, Panie.
@@ -140,7 +141,7 @@ R. Bom zgrzeszył bardzo w żywocie moim.
 
 [Lectio4]
 !Job 13:22-28
-22 Odpowiadaj mi:
+22 Wzów mię, a ja odpowiem tobie: albo więc mówić będę, a ty mi odpowiadaj.
 23 Jako wiele mam nieprawości i grzechów? złości moje i występki ukaż mi.
 24 Przecz kryjesz oblicze twoje, i mniemasz mię być nieprzyjacielem twoim?
 25 Przeciw listkowi, który wiatr porywa, pokazujesz moc swoję, źdźbło suche gonisz?
@@ -197,9 +198,9 @@ R. Gdy przyjdziesz sądzić świat przez ogień.
 
 [Responsory7]
 R. Grzech mi codziennością, i nie pokutowałem, bojaźń śmierci strwożyła mnie:
-* Bo w piekle nie ma odkupienia, zmiłuj się nade mną Boże, i zbaw mnie.
+* Bo w piekle nie ma odkupienia, zmiłuj się nade mną Boże, i zbaw mnie.
 V. Boże, w imię twoje zbaw mię, a w mocy twojéj sądź mię.
-R. Bo w piekle nie ma odkupienia, zmiłuj się nade mną Boże, i zbaw mnie.
+R. Bo w piekle nie ma odkupienia, zmiłuj się nade mną Boże, i zbaw mnie.
 
 [Lectio8]
 !Job 19:20-27
@@ -235,22 +236,29 @@ $Requiem
 R. Którzy pokutowali w otchłani.
 
 [Responsory9]
-R. Wybaw mnie, Panie, od śmierci wiecznej, w dzień ten straszny,
+R. Wybaw mnie, Panie, od śmierci wiecznej, w dzień ten straszny,
 * Gdy niebiosa i ziemia poruszone zostaną, * Gdy przyjdziesz sądzić świat przez ogień.
 V. Strwożony jestem i lękam się, gdy przyjdzie sąd i gniew przybędzie.
 R. Gdy niebiosa i ziemia poruszone zostaną.
 V. W dzień ten, w dzień gniewu, klęski i niedoli, dzień wielki i gorzki wielce.
 R. Gdy przyjdziesz sądzić świat przez ogień.
 $Requiem
-R. Wybaw mnie, Panie, od śmierci wiecznej, w dzień ten straszny,
+R. Wybaw mnie, Panie, od śmierci wiecznej, w dzień ten straszny,
 * Gdy niebiosa i ziemia poruszone zostaną, * Gdy przyjdziesz sądzić świat przez ogień.
 
 [Ant Laudes]
-Niech się rozradują w Panu * kości poniżone..;;50
+Niech się rozradują w Panu * kości poniżone.;;50
 Wysłuchaj, Panie, * modlitwę moją, do ciebie wszelkie ciało przyjdzie.;;64
 Broniła mię * prawica twoja, Panie.;;62
 Od wrót piekielnych * wybaw, Panie, duszę moją.;;222
 Wszelki duch * niechaj Pana chwali.;;150
+
+[Ant Laudes](rubrica tridentina)
+Niech się rozradują w Panu * kości poniżone.;;50
+Wysłuchaj, Panie, * modlitwę moją, do ciebie wszelkie ciało przyjdzie.;;64
+Broniła mię * prawica twoja, Panie.;;62;66
+Od wrót piekielnych * wybaw, Panie, duszę moją.;;222
+Wszelki duch * niechaj Pana chwali.;;148;149;150
 
 [Versum 2]
 V. Usłyszałem głos z nieba mówiący mi.

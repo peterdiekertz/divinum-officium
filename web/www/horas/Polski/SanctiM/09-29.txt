@@ -1,0 +1,6 @@
+[Lectio10]
+@Sancti/09-29:Lectio8:s/ Jeśli.*//
+
+[Lectio11]
+@Sancti/09-29:Lectio8:s/.*Jeśli/Jeśli/
+

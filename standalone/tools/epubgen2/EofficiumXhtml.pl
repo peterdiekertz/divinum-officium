@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 use utf8;
-# vim: set encoding=utf-8 :
 
 # Name : Stepan Srubar
 # Date : 2015-10-28
@@ -94,7 +93,7 @@ sub build_comment_line_xhtml()
 {
   our @dayname;
   our ($comment, $marian_commem);
-  
+
   my $commentcolor = ($dayname[2] =~ /(Feria)/i) ? '' : ($marian_commem && $dayname[2] =~ /^Commem/) ? ' rb' : ' m';
   $comment = ($dayname[2]) ? "<span class=\"s$commentcolor\">$dayname[2]</span>" : "";
 }
@@ -211,8 +210,8 @@ $daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
    ($dayname[1] =~ /(Quattuor|Feria|Vigilia)/i) ? "black" :
    ($dayname[1] =~ /duplex/i) ? "red" :
     "grey";
-    
-    
+
+
 build_comment_line_xhtml();
 
 #prepare main pages
@@ -292,6 +291,8 @@ print << "PrintTag";
 <a href="$date1-7-Vespera.html">$horas[7]</a>
 &nbsp;&nbsp;
 <a href="$date1-8-Completorium.html">$horas[8]</a>
+<br />
+<a href="$date1-9-Missa.html">$horas[9]</a>
 </p>
 PrintTag
 } else {
@@ -327,13 +328,13 @@ sub headline {
   my $h = ($hora =~ /(Matutinum|Laudes|Prima|Tertia|Sexta|Nona|Vespera|Completorium)/i) ? $hora : '';
   my $daten = prevnext($date1, 1);
   my $datep = prevnext($date1, -1);
-  
+
   #convert $daycolor to $daycolorclass
   my $daycolorclass=""; #rely on default being black font color
   if($daycolor eq "blue") {$daycolorclass="rb";}
   elsif($daycolor eq "gray") {$daycolorclass="rb";}
   elsif($daycolor eq "red") {$daycolorclass="rd";}
-  
+
   print << "PrintTag";
 <p class="cen"><span class="$daycolorclass">$headline<br /></span>
 $comment<br /><br />
@@ -358,6 +359,8 @@ $date1
 <a href="$date1-7-Vespera.html">$horas[7]</a>
 &nbsp;&nbsp;
 <a href="$date1-8-Completorium.html">$horas[8]</a>
+<br />
+<a href="$date1-9-Missa.html">$horas[9]</a>
 </p>
 PrintTag
 }
@@ -377,4 +380,3 @@ sub prevnext {
   $year = $d[5]+1900;
   return sprintf("%02i-%02i-%04i", $month, $day, $year);
 }
-

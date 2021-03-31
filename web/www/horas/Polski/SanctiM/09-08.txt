@@ -1,0 +1,12 @@
+[Lectio9]
+@Sancti/09-08:Lectio7:s/Syna .*//s
+
+[Lectio10]
+@Sancti/09-08:Lectio7:s/.* Syna/Syna/s
+
+[Lectio11]
+@Sancti/09-08:Lectio8:s/A Juda .*//s
+
+[Lectio12]
+@Sancti/09-08:Lectio8:s/.* A Juda/A Juda/s
+

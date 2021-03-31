@@ -34,9 +34,10 @@ Lesson from the second letter of St. Paul the Apostle to Timothy
 Beloved: I charge you, in the sight of God and Christ Jesus, Who will judge the living and the dead by His coming and by His kingdom, preach the word, be urgent in season, out of season; reprove, entreat, rebuke with all patience and teaching. For there will come a time when they will not endure the sound doctrine; but having itching ears, will heap up to themselves teachers according to their lusts, and they will turn away their hearing from the truth and turn aside rather to fables. But be watchful in all things, bear with tribulation patiently, work as a preacher of the Gospel, fulfill your ministry. As for me, I am already being poured out in sacrifice, and the time of my deliverance is at hand. I have fought the good fight, I have finished the course, I have kept the faith. For the rest, there is laid up for me a crown of justice, which the Lord, the just Judge, will give to me in that day; yet not to me only, but also to those who love His coming.
 
 [Graduale]
-!Ecclus 44:16, 20.
+!Ecclus 44:16
 Behold a great priest, who in his days pleased God.
-V.There was not found the like to him, who kept the law of the Most High.~
+!Ecclus 44:20
+V. There was not found the like to him, who kept the law of the Most High.~
 Alleluia, alleluia.
 !Ps 109:4
 V. The Lord has sworn, and He will not repent: You are a priest forever,~
@@ -44,7 +45,7 @@ according to the order of Melchisedec. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt. 5:13-19
+!Matt 5:13-19
 At that time Jesus said to His disciples: "You are the salt of the earth; but if~
 the salt loses its strength, what shall it be salted with? It is no longer of~
 any use but to be thrown out and trodden underfoot by men. You are the light of~
@@ -72,7 +73,7 @@ benefit us for eternal salvation.
 $Per Dominum
 
 [Communio]
-!Matt 18:36-38
+!Ps 88:36-38
 Once, by My holiness, have I sworn; his posterity shall continue forever, and~
 his throne shall be like the sun before Me; like the moon, which remains~
 forever.
@@ -94,7 +95,7 @@ $Per eundem
 [Commemoratio Secreta]
 !For the Vigil of Immaculata Conception
 May our offerings, O Lord, be commended to thy clemency by the prayer of the~
-immaculate Mother of God: who thou didst preserve from all stain of original sin,~
+Immaculate Mother of God: who thou didst preserve from all stain of original sin,~
 that she might deserve to become a fit dwelling-place for thy Son
 $Qui tecum
 
@@ -103,4 +104,4 @@ $Qui tecum
 Grant protection to our weakness, O merciful God: that we, who are preparing for~
 the festival of the Immaculate Conception of the Mother of thy only-begotten Son,~
 may by the help of her prayers rise up from our iniquities.
-$Per eúndem
+$Per eÃºndem

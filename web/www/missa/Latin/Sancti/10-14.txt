@@ -1,11 +1,8 @@
 [Rank]
-S. Callisti Papae et Martyris;;Duplex;;3;;vide C4b
+S. Callisti Papæ et Martyris;;Duplex;;3;;vide C4b
 
 [Rank1570]
-S. Callisti Papae et Martyris;;Semiduplex;;2;;vide C3
-
-[RankNewcal]
-S. Callisti Papae et Martyris;;Duplex optional;;2;;vide C4b
+S. Callisti Papæ et Martyris;;Semiduplex;;2;;vide C3
 
 [Rule]
 vide C4b;
@@ -21,6 +18,6 @@ et perpétua salvatióne confírmet.
 $Per Dominum
 
 [Postcommunio]
- Quǽsumus, omnípotens Deus: ut reátus nostros múnera sacráta puríficent, et~
+Quǽsumus, omnípotens Deus: ut reátus nostros múnera sacráta puríficent, et~
 recte vivéndi nobis operéntur efféctum.
 $Per Dominum

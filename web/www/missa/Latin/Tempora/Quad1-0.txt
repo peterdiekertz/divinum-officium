@@ -11,16 +11,16 @@ Suffragium=Sanctorum;Vivis;;
 !Ps 90:15; 90:16
 v. Invocábit me, et ego exáudiam eum: erípiam eum, et glorificábo eum: longitúdine diérum adimplébo eum.
 !Ps 90:1
-Qui hábitat in adjutório Altíssimi, in protectióne Dei coeli commorábitur.
+Qui hábitat in adjutório Altíssimi, in protectióne Dei cœli commorábitur.
 &Gloria
 v. Invocábit me, et ego exáudiam eum: erípiam eum, et glorificábo eum: longitúdine diérum adimplébo eum.
 
 [Oratio]
- Deus, qui Ecclésiam tuam ánnua quadragesimáli observatióne puríficas: præsta famíliæ tuæ; ut, quod a te obtinére abstinéndo nítitur, hoc bonis opéribus exsequátur.
+Deus, qui Ecclésiam tuam ánnua quadragesimáli observatióne puríficas: præsta famíliæ tuæ; ut, quod a te obtinére abstinéndo nítitur, hoc bonis opéribus exsequátur.
 $Per Dominum
 
 [Lectio]
-Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios.
+Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios
 !2 Cor 6:1-10.
 Fratres: Exhortámur vos, ne in vácuum grátiam Dei recipiátis. Ait enim: Témpore accépto exaudívi te, et in die salútis adjúvi te. Ecce, nunc tempus acceptábile, ecce, nunc dies salútis. Némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum: sed in ómnibus exhibeámus nosmetípsos sicut Dei minístros, in multa patiéntia, in tribulatiónibus, in necessitátibus, in angústiis, in plagis, in carcéribus, in seditiónibus, in labóribus, in vigíliis, in jejúniis, in castitáte, in sciéntia, in longanimitáte, in suavitáte, in Spíritu Sancto, in caritáte non ficta, in verbo veritátis, in virtúte Dei, per arma justítiæ a dextris et a sinístris: per glóriam et ignobilitátem: per infámiam et bonam famam: ut seductóres et veráces: sicut qui ignóti et cógniti: quasi moriéntes et ecce, vívimus: ut castigáti et non mortificáti: quasi tristes, semper autem gaudéntes: sicut egéntes, multos autem locupletántes: tamquam nihil habéntes et ómnia possidéntes.
 
@@ -29,9 +29,9 @@ Fratres: Exhortámur vos, ne in vácuum grátiam Dei recipiátis. Ait enim: Tém
 Angelis suis Deus mandávit de te, ut custódiant te in ómnibus viis tuis.
 V. In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.
 _
-!Tractus.
+!Tractus
 !Ps 90:1-7; 90:11-16
-Qui hábitat in adjutório Altíssimi, in protectióne Dei coeli commorántur.
+Qui hábitat in adjutório Altíssimi, in protectióne Dei cœli commorántur.
 V. Dicet Dómino: Suscéptor meus es tu et refúgium meum: Deus meus, sperábo in eum.
 V. Quóniam ipse liberávit me de láqueo venántium et a verbo áspero.
 V. Scápulis suis obumbrábit tibi, et sub pennis ejus sperábis.
@@ -46,7 +46,7 @@ V. Invocábit me, et ego exáudiam eum: cum ipso sum in tribulatióne,
 V. Erípiam eum et glorificábo eum: longitúdine diérum adimplébo eum, et osténdam illi salutáre meum.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthaeum.
+Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 4:1-11
 In illo témpore: Ductus est Jesus in desértum a Spíritu, ut tentarétur a diábolo. Et cum jejunásset quadragínta diébus et quadragínta nóctibus, postea esúriit. Et accédens tentátor, dixit ei: Si Fílius Dei es, dic, ut lápides isti panes fiant. Qui respóndens, dixit: Scriptum est: Non in solo pane vivit homo, sed in omni verbo, quod procédit de ore Dei. Tunc assúmpsit eum diábolus in sanctam civitátem, et státuit eum super pinnáculum templi, et dixit ei: Si Fílius Dei es, mitte te deórsum. Scriptum est enim: Quia Angelis suis mandávit de te, et in mánibus tollent te, ne forte offéndas ad lápidem pedem tuum. Ait illi Jesus: Rursum scriptum est: Non tentábis Dóminum, Deum tuum. Iterum assúmpsit eum diábolus in montem excélsum valde: et ostendit ei ómnia regna mundi et glóriam eórum, et dixit ei: Hæc ómnia tibi dabo, si cadens adoráveris me. Tunc dicit ei Jesus: Vade, Sátana; scriptum est enim: Dóminum, Deum tuum, adorábis, et illi soli sérvies. Tunc relíquit eum diábolus: et ecce, Angeli accessérunt et ministrábant ei.
 
@@ -55,7 +55,7 @@ In illo témpore: Ductus est Jesus in desértum a Spíritu, ut tentarétur a di�
 Scápulis suis obumbrábit tibi Dóminus, et sub pennis ejus sperábis: scuto circúmdabit te véritas ejus.
 
 [Secreta]
-Sacrifícium quadragesimális inítii sollémniter immolámus, te, Dómine, deprecántes: ut, cum epulárum restrictióne carnálium, a noxiis quoque voluptátibus lemperémus.
+Sacrifícium quadragesimális inítii sollémniter immolámus, te, Dómine, deprecántes: ut, cum epulárum restrictióne carnálium, a noxiis quoque voluptátibus temperémus.
 $Per Dominum
 
 [Communio]

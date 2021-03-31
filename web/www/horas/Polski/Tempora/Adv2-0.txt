@@ -8,7 +8,7 @@ II Niedziela Adwentu;;Semiduplex;;6
 9 lectiones
 Antiphonas horas
 
-[Ant Vespera]
+[Ant Laudes]
 Oto Pan przyjdzie * w obłokach niebieskich z mocą wielką, alleluja.
 Miasto mocy * naszej Sion, Zbawiciel będzie w niem położony murem i przedmurzem: otwórzcie bramy, bo Bóg jest z nami, alleluja.
 Oto ukaże się * Pan, a nie skłamie: jeśliby odwłaczał, oczekiwaj Go, bo przychodzący przyjdzie, a nie omieszka, alleluja.
@@ -21,7 +21,7 @@ v. Bracia: Cokolwiek napisano, ku naszej nauce napisano: abyśmy przez cierpliwo
 $Deo gratias
 
 [Ant 1]
-Przyjdż, Panie, * nawiedzić nas w pokoju, byśmy rozradowali się przed Tobą całem sercem.
+Przyjdż, Panie, * nawiedzić nas w pokoju, byśmy rozradowali się przed Tobą całem sercem.
 
 [Oratio]
 Pobudź, Panie, serca nasze do przygotowania dróg Synowi Twemu Jednorodzonemu, abyśmy przez przyjście Jego, oczyszczoną z grzechów duszą służyć Ci mogli.

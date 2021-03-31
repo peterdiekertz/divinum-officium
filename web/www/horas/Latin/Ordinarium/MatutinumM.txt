@@ -1,5 +1,7 @@
 #Incipit
 $Domine labia
+$Domine labia
+$Domine labia
 _
 &psalm(3)
 
@@ -17,4 +19,3 @@ _
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-$Pater noster

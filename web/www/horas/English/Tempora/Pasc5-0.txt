@@ -29,7 +29,7 @@ Lesson from the first letter of St. Peter the Apostle
 
 [Lectio2]
 !1 Pet 1:6-12
-6 Wherein you shall greatly rejoice, if now you must be for a little time made sorrowful in divers temptations:
+6 Wherein you shall greatly rejoice, if now you must be for a little time made sorrowful in diverse temptations:
 7 That the trial of your faith (much more precious than gold which is tried by the fire) may be found unto praise and glory and honour at the appearing of Jesus Christ:
 8 Whom having not seen, you love: in whom also now, though you see him not, you believe: and believing shall rejoice with joy unspeakable and glorified;
 9 Receiving the end of your faith, even the salvation of your souls.
@@ -66,7 +66,7 @@ I tell you how grievous an outrage against God it is not to believe in the resur
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 16:23-3
+!John 16:23-30
 At that time, Jesus said unto His disciples: Amen, Amen, I say unto you: Whatsoever ye shall ask the Father in My Name, He will give it you. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

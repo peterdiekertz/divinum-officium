@@ -1,4 +1,5 @@
 # divinum-officium
+
 Data files and source code for the
 [Divinum Officium](http://www.divinumofficium.com/) project.
 
@@ -32,3 +33,53 @@ encoding is also supported, but is deprecated). The files are arranged into
 sections, with each section beginning with its name enclosed in square
 brackets. Please browse the files in the aforementioned directories for
 examples.
+
+## Docker
+
+Build status badges:
+
+[![](https://images.microbadger.com/badges/version/divinumofficiumweb/divinumofficium.svg)](https://hub.docker.com/r/divinumofficiumweb/divinumofficium "DockerHub Container")
+
+[![](https://images.microbadger.com/badges/image/divinumofficiumweb/divinumofficium.svg)](https://hub.docker.com/r/divinumofficiumweb/divinumofficium "DockerHub Container")
+
+### Production
+
+To pull a pre-built container, pull see docker image `divinumofficiumweb/divinumofficium:latest`.
+
+You can also use Docker Compose to load a copy of the container in one command:
+
+```bash
+docker-compose -f docker-compose-prod.yml up -d
+```
+
+This will download Divinum Officium, and run a local copy on your system, bound to
+`localhost`, port 80.
+
+When you are done, stop the container by running:
+
+```bash
+docker-compose -f docker-compose-prod.yml down
+```
+
+### Development
+
+[Docker](https://docker.com/) contains complete development environment
+necessary for running Divinum Officium website. To run this project you need to
+have docker and [Docker Compose](https://docs.docker.com/compose/) installed on
+your system. Run the following command in root directory of project:
+
+```bash
+docker-compose up
+```
+
+This starts the web server and you can visit the website on
+`http://localhost:8080`. It will mount the current web directory into the container
+so that you can change files and do live-changes without restarting the container.
+
+#### MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+This permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

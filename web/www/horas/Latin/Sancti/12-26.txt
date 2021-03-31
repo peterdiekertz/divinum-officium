@@ -27,7 +27,7 @@ Christum natum, qui beátum hódie coronávit Stéphanum, * Veníte, adorémus.
 [Lectio1]
 De Actibus Apostolórum
 !Act. 6:1-6
-1 In diébus illis, crescénte número discipulórum, factum est murmur Græcórum advérsus Hebrǽos, eo quod despiceréntur in ministério quotidiáno víduæ eórum. 
+1 In diébus illis, crescénte número discipulórum, factum est murmur Græcórum advérsus Hebrǽos, eo quod despiceréntur in ministério cotidiáno víduæ eórum. 
 2 Convocántes autem duódecim multitúdinem discipulórum, dixérunt: Non est æquum nos derelínquere verbum Dei et ministráre mensis. 
 3 Consideráte ergo, fratres, viros ex vobis boni testimónii, septem, plenos Spíritu Sancto et sapiéntia, quos constituámus super hoc opus. 
 4 Nos vero oratióni et ministério verbi instántes érimus. 
@@ -56,7 +56,7 @@ R. Et intuebántur vultum ejus tamquam vultum Angeli stantis inter illos.
 
 [Lectio3]
 !Act. 7:55-59
-55 Cum autem esset plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et Jesum stántem a dextris Dei. Et ait: Ecce video cælos apértos, et Fílium hóminis stántem a dextris Dei. 
+55 Cum autem esset plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et Jesum stántem a dextris Dei. Et ait: Ecce vídeo cælos apértos, et Fílium hóminis stántem a dextris Dei. 
 56 Exclamántes autem voce magna, continuérunt aures suas, et ímpetum fecérunt unanímiter in eum. 
 57 Et eiciéntes eum extra civitátem lapidábant: et testes deposuérunt vestiménta sua secus pedes adolescéntis, qui vocabátur Saulus. 
 58 Et lapidábant Stéphanum, invocántem et dicéntem: Dómine Jesu, súscipe spíritum meum.
@@ -64,11 +64,11 @@ R. Et intuebántur vultum ejus tamquam vultum Angeli stantis inter illos.
 
 [Responsory3]
 R. Intuens in cælum beátus Stéphanus, vidit glóriam Dei, et ait: 
-* Ecce video cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
+* Ecce vídeo cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
 V. Cum autem esset Stéphanus plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et ait.
-R. Ecce video cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
+R. Ecce vídeo cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
 &Gloria
-R. Ecce video cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
+R. Ecce vídeo cælos apértos, et Fílium hóminis stántem a dextris virtútis Dei.
 
 [Lectio4]
 Sermo sancti Fulgentii Epíscopi
@@ -128,7 +128,7 @@ R. Et ídeo triúmphat in cælis coronátus.
 R. Et ídeo triúmphat in cælis coronátus.
 
 [Lectio9]
-Alii istum volunt esse Zacharíam, qui occísus est a Joas rege Judæ inter templum et altáre, sicut Regum narrat história. Sed observándum, quod ille Zacharías non sit fílius Barachíæ, sed fílius Jójadæ sacerdótis: unde et Scriptúra refert: Non fuit recordátus Joas patris ejus Jójadæ, quia sibi fecísset bona. Cum ergo et Zacharíam teneámus et occisiónis conséntiat locus: quærimus, quare Barachíæ dicátur fílius, et non Jójadæ? Barachía lingua nostra Benedíctus Dómini dícitur, et sacerdotis Jójadæ justítia Hebræo nómine demonstrátur. In Evangélio, quo utúntur Nazaréni, pro fílio Barachíæ, fílium Jójadæ reperímus scriptum.
+Alii istum volunt esse Zacharíam, qui occísus est a Joas rege Judæ inter templum et altáre, sicut Regum narrat história. Sed observándum, quod ille Zacharías non sit fílius Barachíæ, sed fílius Jójadæ sacerdótis: unde et Scriptúra refert: Non fuit recordátus Joas patris ejus Jójadæ, quia sibi fecísset bona. Cum ergo et Zacharíam teneámus et occisiónis conséntiat locus: quærimus, quare Barachíæ dicátur fílius, et non Jójadæ? Barachía lingua nostra Benedíctus Dómini dícitur, et sacerdotis Jójadæ justítia Hebrǽo nómine demonstrátur. In Evangélio, quo utúntur Nazaréni, pro fílio Barachíæ, fílium Jójadæ reperímus scriptum.
 &teDeum
 
 [Ant Laudes]
@@ -136,7 +136,7 @@ Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas ill
 Lapides torréntis * illi dulces fuérunt: ipsum sequúntur omnes ánimæ justæ.
 Adhǽsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.
 Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
-Ecce video * cælos apértos, et Jesum stántem a dextris virtútis Dei.
+Ecce vídeo * cælos apértos, et Jesum stántem a dextris virtútis Dei.
 
 [Capitulum Laudes]
 !Act. 6:8
@@ -186,8 +186,8 @@ Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum
 @Sancti/12-25:Octava
 
 [Octava 2]
-!Commemoratio Octavæ S. Stéphani
-Ant. Stéphanus autem * plenus gratia et fortitudine, faciebat signa magna in populo.
+!Commemoratio Octavæ S. Stephani
+Ant. Stéphanus autem plenus grátia et fortitúdine, faciébat signa magna in pópulo.
 _
 V. Sepeliérunt Stéphanum viri timoráti.
 R. Et fecérunt planctum magnum super eum.
@@ -197,12 +197,15 @@ v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimíc
 $Qui tecum
 
 [Octava 3]
-!Commemoratio Octavæ S. Stéphani
-Ant. Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.
+!Commemoratio Octavæ S. Stephani
+Ant. Sepeliérunt Stéphanum viri timoráti, et fecérunt planctum magnum super eum.
 _
-V. Stéphanus vidit cælos apertos.
-R. Vidit, et introívit: beátus homo, cui cæli patebant.
+V. Stéphanus vidit cælos apértos.
+R. Vidit, et introívit: beátus homo, cui cæli patébant.
 _
 $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
+
+[Octava 1]
+@:Octava 3

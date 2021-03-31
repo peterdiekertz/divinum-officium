@@ -24,10 +24,13 @@ V. Dignáre me laudáre te, Virgo sacráta.
 R. Da mihi virtútem contra hostes tuos.
 
 [Ant 1]
-Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intervéni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
+Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
 
 [Invit]
 Sancta María, Dei Génetrix Virgo, * Intercéde pro nobis.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/sídera/ǽthera/
 
 [Hymnus Matutinum]
 {:H-Quemterra:}v. Quem terra, pontus, sídera
@@ -91,7 +94,7 @@ R. Quia quem cæli cápere non póterant, tuo grémio contulisti.
 
 [Lectio2]
 !Prov 8:18-25
-18 Mecum sunt divítiæ et gloria, opes superbæ et justítia. 
+18 Mecum sunt divítiæ et glória, opes supérbæ et justítia. 
 19 Mélior est enim fructus meus auro et lápide pretióso, et genímina mea argénto elécto. 
 20 In viis justítiæ ámbulo, in médio semitárum judícii, 
 21 ut ditem diligéntes me et thesáuros eórum répleam. 
@@ -146,7 +149,7 @@ V. Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
 R. Vidérunt eam fíliæ Sion, et beátam dixérunt, et regínæ laudavérunt eam.
 
 [Lectio6]
-Hæc ejus mater est, qui a Patre ante omne principium génitus fuit; quem Angeli et hómines agnoscunt Dóminum rerum ómnium. Visne cognóscere quanto Virgo hæc præstantior sit cæléstibus Potentiis? Illæ cum timóre et tremóre assistunt, fáciem velántes suam: hæc humanum genus illi offert, quem génuit. Per hanc et peccatórum véniam conséquimur. Ave ígitur, mater, cælum, puella, virgo, thronus. Ecclésiæ nostræ decus, glória et firmaméntum: assidue pro nobis precare Jesum, Fílium tuum et Dóminum nostrum, ut per te misericórdiam inveníre in die judícii, et quæ repósita sunt iis qui díligunt Deum bona cónsequi possímus, grátia et benignitate Dómini nostri Jesu Christi: cum quo Patri simul et Sancto Spiritui gloria, et honor, et impérium, nunc et semper in sæcula sæculórum. Amen.
+Hæc ejus mater est, qui a Patre ante omne principium génitus fuit; quem Angeli et hómines agnoscunt Dóminum rerum ómnium. Visne cognóscere quanto Virgo hæc præstantior sit cæléstibus Potentiis? Illæ cum timóre et tremóre assistunt, fáciem velántes suam: hæc humánum genus illi offert, quem génuit. Per hanc et peccatórum véniam conséquimur. Ave ígitur, mater, cælum, puella, virgo, thronus. Ecclésiæ nostræ decus, glória et firmaméntum: assidue pro nobis precare Jesum, Fílium tuum et Dóminum nostrum, ut per te misericórdiam inveníre in die judícii, et quæ repósita sunt iis qui díligunt Deum bona cónsequi possímus, grátia et benignitate Dómini nostri Jesu Christi: cum quo Patri simul et Sancto Spiritui gloria, et honor, et impérium, nunc et semper in sæcula sæculórum. Amen.
 
 [Responsory6]
 R. Ornátam monílibus fíliam Jerúsalem Dóminus concupívit: 
@@ -194,6 +197,9 @@ Quinímmo beáti qui áudiunt verbum Dei et custódiunt. Pulchre Salvátor attes
 
 [Hymnus Laudes]
 @Commune/C10:Hymnus Laudes
+
+[HymnusM Laudes]
+@Commune/C10:HymnusM Laudes
 
 [Versum 2]
 @Commune/C10:Versum 1

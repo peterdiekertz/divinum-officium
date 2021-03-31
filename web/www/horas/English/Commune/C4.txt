@@ -8,11 +8,11 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=131
 
 [Ant Vespera]
-Behold an high priest, * who in his days pleased God, and was found righteous.;;109
-None was found like unto him, * to keep the Law of the Most High.;;110
-Therefore the Lord assured him * by an oath that He would multiply his seed among His people.;;111
-O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing praises unto our God.;;112
-Good and faithful servant, * enter thou into the joy of thy Lord.;;116
+Behold an high priest, * who in his days pleased God, and was found righteous.
+None was found like unto him, * to keep the Law of the Most High.
+Therefore the Lord assured him * by an oath that He would multiply his seed among His people.
+O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing praises unto our God.
+Good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Capitulum Vespera]
 !Sir 44:16-17
@@ -164,7 +164,7 @@ V. The enemy shall prevail nothing against him, nor the son of wickedness afflic
 R. For My hand shall help him.
 
 [Lectio5]
-Whatsover, therefore, of virtue and grace there may be in this holy people, all the bright streams thereof do flow from him, as from a most clear fountain. By his manly chastity, by his sternly noble temperance, by the graceful courtesy which marked him, he drew all men’s love to God and by his eminent ministry in his Bishoprick he hath left behind him in his disciples, many heirs of his priesthood.
+Whatsover, therefore, of virtue and grace there may be in this holy people, all the bright streams thereof do flow from him, as from a most clear fountain. By his manly chastity, by his sternly noble temperance, by the graceful courtesy which marked him, he drew all men’s love to God and by his eminent ministry in his Bishopric he hath left behind him in his disciples, many heirs of his priesthood.
 
 [Responsory5]
 R. I have laid help upon one that is mighty, and have exalted one chosen out of My people
@@ -229,7 +229,7 @@ _
 The meek confessor of thy name
 Today attained a glorious fame;
 Whose yearly feast, in solemn state,
-thy faithful people celebrate.
+Thy faithful people celebrate.
 _
 The world and all its boasted good,
 As vain and passing, he eschewed;
@@ -354,7 +354,7 @@ At that time: When Jesus came into the coasts of Caesarea Philippi, he asked his
 _
 A Homily by St. Leo the Pope
 !Sermo 2 in anniversario assumpt. suæ ante medium
-When the Lord, as we read in the Gospel, asked his disciples who did men, amid their divers speculations, believe him the Son of Man to be, blessed Peter answered and said: Thou art the Christ, the Son of the living God. And the Lord answered and said unto him: Blessed art thou, Simon Bar-Jona: for flesh and blood hath not revealed it unto thee, but my Father, which is in heaven: and I say also unto thee: That thou art Peter, and upon this rock I will build my Church, and the gates of hell shall not prevail against it; and I will give unto thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven. But the dispensation of truth perdures, and blessed Peter, persevering in the strength of the rock which he hath received, hath not relinquished the position he assumed at the helm of the Church.
+When the Lord, as we read in the Gospel, asked his disciples who did men, amid their diverse speculations, believe him the Son of Man to be, blessed Peter answered and said: Thou art the Christ, the Son of the living God. And the Lord answered and said unto him: Blessed art thou, Simon Bar-Jona: for flesh and blood hath not revealed it unto thee, but my Father, which is in heaven: and I say also unto thee: That thou art Peter, and upon this rock I will build my Church, and the gates of hell shall not prevail against it; and I will give unto thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven. But the dispensation of truth perdures, and blessed Peter, persevering in the strength of the rock which he hath received, hath not relinquished the position he assumed at the helm of the Church.
 
 [Lectio81]
 In the universal Church it is as if Peter were still saying every day: Thou art the Christ, the Son of the living God. For every tongue which confesseth the Lord is taught that confession by the teaching of Peter. This is the Faith that overcometh the devil and looseth the bonds of his prisoners. This is the Faith which maketh men free of the world and bringeth them to heaven, and the gates of hell are impotent to prevail against it. This is the rock which God hath fortified with such ramparts of salvation, that the contagion of heresy will never be able to infect it, nor idolatry and unbelief to overcome it. And therefore, dearly beloved, we celebrate today’s festival with reasonable obedience, that in my humble person he may be acknowledged and honoured who doth continue to care for all the shepherds as well as sheep entrusted unto him, and who doth lose none of his dignity even in an unworthy successor.

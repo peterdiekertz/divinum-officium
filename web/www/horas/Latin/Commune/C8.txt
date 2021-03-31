@@ -12,7 +12,7 @@ Divinum auxilium
 [Ant Vespera]
 Domum tuam, Dómine, * decet sanctitúdo in longitúdinem diérum.;;109
 Domus mea, * domus oratiónis vocábitur.;;110
-Hæc est domus Dómini * firmiter ædificáta, bene fundáta est supra firmam petram.;;111
+Hæc est domus Dómini * fírmiter ædificáta, bene fundáta est supra firmam petram.;;111
 Bene fundáta est * domus Dómini supra firmam petram.;;112
 Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.;;147
 
@@ -20,6 +20,80 @@ Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur
 !Apo 21:2
 v. Vidi civitátem sanctam, Jerúsalem novam, descendéntem de cælo a Deo, parátam sicut spónsam ornátam viro suo.
 $Deo gratias
+
+[HymnusM Laudes]
+v. Anguláris fundaméntum
+Lapis Christus missus est,
+Qui paríetum compáge
+In utróque néctitur,
+Quem Sion sancta suscépit,
+In quo credens pérmanet.
+_
+Omnis illa Deo sacra
+Et dilécta cívitas,
+Plena módulis, in laude,
+Et canóre júbilo,
+Trinum Deum unicúmque
+Cum fervóre prǽdicat.
+_
+Hoc in templo, summe Deus,
+Exorátus ádveni,
+Et cleménti bonitáte
+Precum vota súscipe,
+Largam benedictiónem
+Hic infunde júgiter.
+_
+Hic promereántur omnes
+Petíta acquírere,
+Et adépta possidére,
+Cum Sanctis perénniter
+Paradísum introíre,
+Transláti in réquiem.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula.
+Amen.
+
+[HymnusM Vespera]
+v. Urbs beáta Jerúsalem,
+Dicta pacis vísio,
+Quæ constrúitur in cælis
+Vivis ex lapídibus,
+Et Angelis coronáta
+Ut sponsáta cómite.
+_
+Nova véniens e cælo,
+Nuptiáli thálamo
+Præparáta, ut sponsáta
+Copulétur Dómino:
+Platéæ et muri ejus
+Ex auro puríssimo.
+_
+Portæ nitent margarítis
+Ádytis paténtibus,
+Et virtúte meritórum
+Illuc introdúcitur
+Omnis qui ob Christi nomen
+Hic in mundo prémitur.
+_
+Tunsiónibus, pressúris
+Expolíti lápides,
+Suis coaptántur locis
+Per manus artíficis,
+Disponúntur permansúri
+Sacris ædifíciis.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula.
+Amen.
 
 [Hymnus Vespera]
 {:H-Caelestisurbs:}v. Cæléstis urbs Jerúsalem,
@@ -58,43 +132,6 @@ Cui laus, potéstas, glória
 Ætérna sit per sǽcula.
 Amen.
 
-[HymnusM Vespera]
-{:H-Caelestisurbs:}v. Urbs Ierúsalem beáta,
-dicta pacis vísio,
-quæ constrúitur in cælis
-vivis ex lapídibus,
-angelísque coronáta
-sicut sponsa cómite,
-_
-Nova véniens e cælo,
-nuptiáli thálamo
-præparáta, ut intácta
-copulétur Dómino.
-Platéæ et muri eius
-ex auro puríssimo;
-_
-Portæ nitent margarítis
-ádytis paténtibus,
-et virtúte meritórum
-illuc introdúcitur
-omnis qui ob Christi nomen
-hic in mundo prémitur.
-_
-Tunsiónibus, pressúris
-expolíti lápides
-suis coaptántur locis
-per manum artíficis;
-disponúntur permansúri
-sacris ædifíciis.
-_
-Glória et honor Deo
-usquequáque altíssimo,
-una Patri Filióque
-atque Sancto Flámini,
-quibus laudes et potéstas
-per ætérna sæcula.
-Amen.
-
 [Versum 1]
 V. Hæc est domus Dómini fírmiter ædificáta. 
 R. Bene fundáta est supra firmam petram.
@@ -115,6 +152,9 @@ Domum Dei decet sanctitúdo: * Sponsum ejus Christum adorémus in ea.
 
 [Hymnus Matutinum]
 @Commune/C8:Hymnus Vespera
+
+[HymnusM Matutinum]
+@Commune/C8:HymnusM Vespera
 
 [Ant Matutinum]
 Tóllite portas, * príncipes vestras, et elevámini, portæ æternáles.;;23
@@ -137,7 +177,7 @@ R. Bene fundáta est supra firmam petram.
 De libro secundo Paralipómenon
 !2 Chr 7:1-5
 1 Cum complésset Sálomon fundens preces, ignis descéndit de cælo et devorávit holocáusta et víctimas: et majéstas Dómini implévit domum. 
-2 Nec potérant sacerdótes íngredi templum Dómini, eo quod implésset majéstas Dómini, templum Dómini. 
+2 Nec póterant sacerdótes íngredi templum Dómini, eo quod implésset majéstas Dómini, templum Dómini. 
 3 Sed et omnes fílii Israél vidébant descendéntem ignem, et glóriam Dómini super domum: et corruéntes proni in terram super paviméntum stratum lápide, adoravérunt et laudavérunt Dóminum: Quóniam bonus, quóniam in sǽculum misericórdia ejus. 
 4 Rex autem et omnis pópulus immolábant víctimas coram Dómino.
 5 Mactávit ígitur rex Sálomon hóstias, boum vigínti duo míllia, aríetum centum vigínti míllia: et dedicávit domum Dei rex et univérsus pópulus.
@@ -242,7 +282,7 @@ Verum, ne cæcum illum, tamquam fastidiósi páuperum, cito reliquísse videámu
 [Ant Laudes]
 Domum tuam, Dómine, * decet sanctitúdo in longitúdinem diérum.
 Domus mea, * domus oratiónis vocábitur.
-Hæc est domus Dómini * firmiter ædificáta, bene fundáta est supra firmam petram.
+Hæc est domus Dómini * fírmiter ædificáta, bene fundáta est supra firmam petram.
 Bene fundáta est * domus Dómini supra firmam petram.
 Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.
 
@@ -286,52 +326,15 @@ Cui laus, potéstas, glória
 Ætérna sit per sǽcula.
 Amen.
 
-[HymnusM Laudes]
-{:H-Altoexolympi:}v. Anguláris fundaméntum
-lapis Christus missus est,
-qui paríetum compáge
-in utróque néctitur,
-quem Sion sancta suscépit,
-in quo credens pérmanet.
-_
-Omnis illa Deo sacra
-et dilécta cívitas,
-plena módulis in laude
-et canóre iúbilo,
-trinum Deum unicúmque
-cum fervóre prædicat.
-_
-Hoc in templo, summe Deus,
-exorátus ádveni,
-et cleménti bonitáte
-precum vota súscipe;
-largam benedictiónem
-hic infúnde iúgiter.
-_
-Hic promereántur omnes
-petíta acquírere
-et adépta possidére
-cum sanctis perénniter,
-paradísum introíre
-transláti in réquiem.
-_
-Glória et honor Deo
-usquequáque altíssimo,
-una Patri Filióque
-atque Sancto Flámini,
-quibus laudes et potéstas
-per ætérna sǽcula.
-Amen.
-
 [Versum 2]
 @:Versum 1
 
 [Ant 2]
-Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic domui salus a Deo facta est, allelúja.
+Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic dómui salus a Deo facta est, allelúja.
 
 [Lectio Prima]
 !Apo 21:4-5
-v. Et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt. Et dixit qui sedébat in throno: Ecce nova facio ómnia.
+v. Et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt. Et dixit qui sedébat in throno: Ecce nova fácio ómnia.
 
 [Capitulum Tertia]
 @:Capitulum Laudes
@@ -365,14 +368,14 @@ R. Bene fundáta est supra firmam petram.
 
 [Capitulum Nona]
 !Apo 21:4-5
-v. Et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt. Et dixit qui sedébat in throno: Ecce nova facio ómnia.
+v. Et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt. Et dixit qui sedébat in throno: Ecce nova fácio ómnia.
 $Deo gratias
 
 [Responsory Nona]
 R.br. Hæc est domus Dómini * Fírmiter ædificáta.
 R. Hæc est domus Dómini * Fírmiter ædificáta.
 V. Bene fundáta est supra firmam petram.
-R. Firmiter ædificáta.
+R. Fírmiter ædificáta.
 &Gloria
 R. Hæc est domus Dómini * Fírmiter ædificáta.
 _

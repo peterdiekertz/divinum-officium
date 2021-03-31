@@ -1,325 +1,142 @@
-[Rank]
-Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;7
+@Tempora/Pasc0-0
 
 [Rule]
 Psalmi Dominica
 Antiphonas horas
-
-[Ant 1]
-Vespere autem sabbati * quae lucescit in prima sabbati, venit Maria Magdalene,~
-et altera Maria, videre sepulcrum, alleluia.
-
-[Oratio 1]
-Spiritum nobis Domine tuae caritatis infunde: ut quos sacramentis paschalibus~
-satiasti, tua facias pietate concordes.
-$Per Dominum
-
-[Ant 41]
-Ant. Vespere autem sabbati
-&canticum(3)
-&Gloria
-{::}Ant. Vespere autem sabbati, * quae lucescit in prima sabbati, venit Maria
-Magdalene,
-et altera Maria videre sepulcrum, alleluia.
-
-[Invit]
-Surrexit Dominus vere, * Alleluia.
+12 lectiones
 
 [Ant Matutinum]
-Ego sum qui sum, * et consilium meum non est cum impiis, sed in lege Domini voluntas mea est, alleluia;;1
+Ego sum * qui sum, et consílium meum non est cum ímpiis, † sed in lege Dómini volúntas mea est, allelúja.;;1
 ;;2
 ;;8
 ;;15
 ;;23
 ;;27
-V. Surrexit Dominus de sepulcro, alleluia.
-R. Qui pro nobis pependit in ligno, alleluia.
-Terra tremuit et quievit, * dum exsurgeret in judicio Deus, alleluia;;29
+V. Surréxit Dóminus de sepúlcro, allelúja.
+R. Qui pro nobis pepéndit in ligno, allelúja.
+Terra * trémuit et quiévit, † dum exsúrgeret in judício Deus, allelúja.;;29
 ;;63
 ;;65
 ;;75
 ;;87
 ;;107
-V. Surrexit Dominus vere. Alleluia.
-R. Et apparuit Simoni. Alleluia.
-Nolite expavescere : Jesum qu�ritis Nazarenum,crucifixum : surrexit, non est hic, alleluia;;243;244;245
-V. Gavisi sunt discipuli alleluia
-R. Viso Domino alleluia
+V. Surréxit Dóminus vere, allelúja.
+R. Et appáruit Simóni, allelúja.
+Nolíte expavéscere: * Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, allelúja.;;243;244;245
+V. Gavísi sunt discípuli, allelúja.
+R. Viso Dómino, allelúja.
 
 [Lectio1]
-De epistola beati Pauli Apostoli ad Romanos
-!Rom 6:2-4
-2 Qui enim mortui sumus peccato, quomodo adhuc vivemus in illo?
-3 an ignoratis quia quicumque baptizati sumus in Christo Jesu, in morte ipsius~
-baptizati sumus?
-4 Consepulti enim sumus cum illo per baptismum in mortem: ut quomodo Christus~
-surrexit a mortuis per gloriam Patris, ita et nos in novitate vitae ambulemus.
-
-[Responsory1]
-R. Angelus Domini descendit de caelo, et accedens revolvit lapidem, et super eum~
-sedit, et dixit mulieribus:
-* Nolite timere: scio enim quia crucifixum quaeritis: jam surrexit: venite, et~
-videte locum, ubi positus erat Dominus, alleluia.
-V. Et introeuntes in monumentum, viderunt juvenem sedentem in dextris, coopertum~
-stola candida, et obstupuerunt: qui dixit illis.
-R. Nolite timere: scio enim quia crucifixum quaeritis: jam surrexit: venite, et~
-videte locum, ubi positus erat Dominus, alleluia.
-&Gloria
-R. Angelus Domini descendit de caelo, et accedens revolvit lapidem, et super eum~
-sedit, et dixit I mulieribus: * Nolite timere: scio enim quia crucifixum~
-quaeritis: jam surrexit: venite, et videte locum, ubi positus erat Dominus,~
-alleluia.
+@Sancti/01-03::1-6 s/1-5/2-4/ s/1.*Absit. /2 /s
 
 [Lectio2]
-!Rom 6:5-7
-5 Si enim complantati facti sumus similitudini mortis ejus: simul et~
-resurrectionis erimus.
-6 Hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur~
-corpus peccati, et ultra non serviamus peccato.
-7 Qui enim mortuus est, justificatus est a peccato.
-
-[Responsory2]
-R. Cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt~
-aromata,
-* Ut venientes ungerent Jesum, alleluia, alleluia.
-V. Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole.
-R. Ut venientes ungerent Jesum, alleluia, alleluia.
-&Gloria
-R. Ut venientes ungerent Jesum, alleluia, alleluia.
+@Sancti/01-03::1 s/6-11/5-7/
+@Sancti/01-03:Lectio1:7
+@Sancti/01-03::2-3
 
 [Lectio3]
-!Rom 6:8-13
-8 Si autem mortui sumus cum Christo, credimus quia simul etiam vivemus cum~
-Christo,
-6:9 scientes quod Christus resurgens ex mortuis jam non moritur: mors illi ultra~
-non dominabitur.
-10 Quod enim mortuus est peccato, mortuus est semel: quod autem vivit, vivit~
-Deo.
-11 Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo, in~
-Christo Jesu Domino nostro.
-12 Non ergo regnet peccatum in vestro mortali corpore ut obediatis~
-concupiscentiis ejus.
-13 Sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos~
-Deo, tamquam ex mortuis viventes: et membra vestra arma justitiae Deo.
+@Sancti/01-03:Lectio2:s/6-11/8-10/ s/6 .*8/8/s s/.11 .*//s
 
 [Responsory3]
-R. Maria Magdalene, et altera Maria ibant diluculo ad monumentum:
-* Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet vos~
-in Galilaeam, ibi eum videbitis.
-V. Et valde mane una sabbatorum veniunt ad monumentum orto jam sole: et~
-introeuntes viderunt juvenem sedentem in dextris, qui dixit illis.
-R. Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet~
-vos in Galilaeam, ibi eum videbitis.
-&Gloria
-R. Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet~
-vos in Galilaeam, ibi eum videbitis.
+@Tempora/Pasc0-1:Responsory1
 
 [Lectio4]
-Sermo Sancti Gregorii Nazienzi
-!Oratio XLV in Pascha
-Pascha Domini, Pascha, iterumque Pascha dicam in honorem Trinitatis, Haec nobis~
-festivitatum festivitas, et celebritatum celebritas, tanto ceteris omnibus, non~
-solum humanis et humi defixis, sed iis etiam quae ipsius Christi sunt ac propter~
-ipsum celebrantur, antecellens, quanto sol stellis antecellit. Heri agnus~
-mactabatur, et postes ungebantur, luxitque primogenita Aegyptus, ac nos~
-exterminator praeteriit, signaculum quippe terrori ipsi ac venerationi fuit,~
-pretiosoque Sanguine protecti sumus.
+@Sancti/01-03:Lectio2:s/6-11/11-13/ s/6 .*11/11/s
+@Sancti/01-03:Lectio3:2-3
 
 [Responsory4]
-R. Virtute magna reddebant Apostoli
-* Testimonium resurrectionis Jesu Christi Domini nostri, alleluia, alleluia
-V. Repleti quidem Spiritu sancto, loquebantur cum fiducia verbum Dei.
-R. Testimonium resurrectionis Jesu Christi Domini nostri, alleluia, alleluia
+@Tempora/Pasc0-1:Responsory2
 
 [Lectio5]
-!Oratio I in Pascha
-Hodie Aegyptum omnino fugimus, et amarulentum illum dominum pharaonem, et~
-acerbos praefectos: ac luto et laterum confectione liberati sumus: nec quisquam~
-est, qui nos Domino Deo nostro exitus festum celebrare prohibeat, et quidem~
-celebrare, non in fermento veteri malitiae et nequitiae, sed in azymis~
-sinceritatis et veritatis, nihil Aegyptiaci atque imi fermenti nobiscum~
-ferentes. Heri cum Christo in crucem angebar: hodie simul glorificor. Heri~
-commoriebar: hodie simul vivificor. Heri consepeliebar: hodie simul resurgo.
+Sermo sancti Gregórii Nazianzéni
+!Sermone 2. de Paschale
+Pascha Dómini, Pascha, iterúmque Pascha dicam in honórem Trinitátis. Haec nobis festívitatum festívitas, et celebritátum celébritas, tanto céteris ómnibus, non solum humánis et humi defíxis, sed iis étiam quae ipsíus Christi sunt ac propter ipsum celebrántur, antecéllens, quanto sol stellis antecéllit. Heri agnus mactabátur, et postes ungebántur, luxítque primogénita Aegýptus, ac nos exterminátor praetériit, (signáculum quippe terróri ipsi ac veneratióni fuit), pretiosóque Sánguine protécti sumus.
 
 [Responsory5]
-R. De ore prudentis procedit mel, alleluia: dulcedo mellis est sub lingua ejus,~
-alleluia:
-* Favus distillans labia ejus, alleluia, alleluia.
-V. Sapientia requiescit in corde ejus, et prudentia in sermone oris illius.
-R. Favus distillans labia ejus, alleluia, alleluia.
+@Tempora/Pasc0-2:Responsory1
 
 [Lectio6]
-Assumpsit, quod deterius erat, ut det, quod paestantius est: mendicus factus est,~
-ut nos illius mendicitate ditemur: servi formam suscepit nos in libertatem~
-asseramur. Descendit, ut evehamur: tentatus est, vincamus: contemptus: ut nos~
-gloria afficiat: mortuus est, ut salutem nobis afferat: ascendit ut eos, qui in~
-peccati lapsu jacebant, ad seipsum trahat. Omnia quipiam donet, omnia ei, qui~
-seipsum redemptionis pretium pro nobis, ac culpae nostrae succidaneum dedit,~
-offerat. Nihil autem daturas est tantum, quantum si seipsum obtulerit hujus~
-mysterii rationem probe intelligentem; ac propter illum omnia factus fuerit,~
-quacumque ipse propter nos factus est.
+Hódie Aegýptum omníno fúgimus, et amaruléntum illum dóminum pharaónem, et acérbos praeféctos: ac luto et láterum confectióne liberáti sumus: nec quisquam est, qui nos Dómino Deo nostro éxitus festum celebráre prohíbeat, et quidem celebráre, non in ferménto véteri malítiae et nequítiae, sed in ázymis sinceritátis et veritátis, nihil Aegyptíaci atque imi ferménti nobíscum feréntes. Heri cum Christo in crucem angébar: hódie simul gloríficor. Heri commoriébar: hódie simul vivíficor. Heri consepeliébar: hódie simul resúrgo.
 
 [Responsory6]
-R. Ego sum vitis vera, et vos palmites:
-* Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
-V. Sicut dilexit me Pater, et ego dilexi vos.
-R. Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
-&Gloria
-R. Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
+@Tempora/Pasc0-2:Responsory2
 
 [Lectio7]
-Lectio sancti Evangelii secundum Marcum.
-!Marc 16:1-7
-In illo tempore: Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata, ut~
-venientes ungerent Jesum. Et reliqua.
-_
-Homilia sancti Gregorii Papae.
-!Homilia 21. in Evangelia.
-Audistis fratres carissimi quod sanctae mulieres, quae Dominum fuerant secutae,~
-cum aromatibus ad monumentum venerunt, et ei, quem viventem dilexerant, etiam~
-mortuo, studio humanitatis obsequuntur. Sed res gesta aliquid in sancta Ecclesia~
-signat gerendum. Sic quippe necesse est ut audiamus quae facta sunt, quatenus~
-cogitemus etiam quae nobis sint ex eorum imitatione facienda. Et nos ergo in eum,~
-qui est mortuus, credentes, si odore virtutum referti, cum opinione bonorum~
-operum Dominum quaerimus, ad monumentum profecto illius cum aromatibus venimus.~
-Illae autem mulieres Angelos vident, quae cum aromatibus venerunt: quia~
-videlicet illae mentes supernos cives aspiciunt, quae cum virtutum odoribus ad~
-Dominum per sancta desideria proficiscuntur.
+At vero ei, qui pro nobis passus est ac resurréxit, múnera offerámus. Aurum fortásse me dícere putátis, aut argéntum, aut textúras, aut perlúcidos et ingéntis prétii lápides, fluxam fragilémque terræ matériam, humíque manéntem, cuiúsque maiórem partem ímprobi fere póssident, et servi rerum terrenárum ac mundi príncipis?  Immo vero nosmetípsos offerámus, hoc est, opes Deo caríssimas, maximéque congruéntes.  Imáginis decus imágini reddámus, dignitátem nostrum agnoscámus, exemplar nostrum honóre prosequámur, mystérii vim intellegámus, et pro quo Christus morte functus est. Simus ut Christus quoque sicut nos.  Efficiámur dii propter ipsum, quóniam quoque propter nos homo factus est.
 
 [Responsory7]
-R. Tulerunt Dominum meum, et nescio ubi posuerunt eum. Dicunt ei Angeli: Mulier~
-quid ploras? surrexit, sicut dixit:
-* Praecedet vos in Galilaeam, ibi eum videbitis.
-V. Dum ergo fleret, inclinavit se, et prospexit in monumentum, et vidit duos~
-Angelos in albis sedentes, qui dicunt ei.
-R. Praecedet vos in Galilaeam, ibi eum videbitis.
+@Tempora/Pasc0-3:Responsory1
 
 [Lectio8]
-Notandum vero nobis est, quidnam sit, quod in dextris sedere Angelus cernitur.~
-Quid namque per sinistram, nisi vita praesens: quid vero per dexteram, nisi~
-perpetua vita designatur? Unde in Canticis canticorum scriptum est: Laeva ejus~
-sub capite meo, et dextera illius amplexabitur me. Quia ergo Redemptor noster~
-jam praesentis vitae corruptionem transierat, recte Angelus qui nuntiare~
-perennem ejus vitam venerat, in dextera sedebat. Qui stola candida coopertus~
-apparuit: quia festivitatis nostrae gaudia nuntiavit. Candor etenim vestis,~
-splendorem nostrae denuntiat solemnitatis. Nostrae dicamus, an suae? Sed ut~
-fateamur verius, et suae dicamus, et nostrae. Illa quippe Redemptoris nostri~
-resurrectio et nostra festivitas fuit, quia nos ad immortalitatem reduxit: et~
-Angelorum festivitas exstitit, quia nos revocando ad caelestia, eorum numerum~
-implevit.
+Assúmpsit, quod detérius erat, ut det, quod paestántius est: mendícus factus est, ut nos illíus mendicitáte ditémur: servi formam suscépit nos in libertátem asserámur. Descéndit, ut evehámur: tentátus est, vincámus: contémptus: ut nos glória affíciat: mórtuus est, ut salútem nobis áfferat: ascéndit ut eos, qui in peccáti lapsu iacébant, ad seípsum trahat. Omnia quíspiam donet, ómnia ei, qui seípsum redemptiónis prétium pro nobis, ac culpae nostrae succidáneum dedit, ófferat. Nihil autem datúrus est tantum, quantum si seípsum obtúlerit huius mystérii ratiónem probe intelligéntem; ac propter illum ómnia factus fúerit, quacúmque ipse propter nos factus est.
 
 [Responsory8]
-R. Congratulamini mihi omnes qui diligitis Dominum, quia quem quaerebam,~
-apparuit mihi:
-* Et dum flerem ad monumentum, vidi Dominum, alleluia, alleluia.
-V. Re cedentibus discipulis, non recedebam, et amoris ejus igne succensa,~
-ardebam desiderio.
-R. Et dum flerem ad monumentum, vidi Dominum, alleluia, alleluia.
-&Gloria
-R. Et dum flerem ad monumentum, vidi Dominum, alleluia, alleluia.
+@Tempora/Pasc0-3:Responsory2
 
 [Lectio9]
-In sua ergo ac nostra festivitate Angelus in albis vestibus apparuit: quia dum~
-nos per resurrectionem Dominicam ad superna reducimur, caelestis patriae damna~
-reparantur. Sed quid advenientes feminas affatur, audiamus: Nolite expavescere.~
-Ac si aperte dicat, Paveant illi, qui non amant adventum supernorum civium:~
-pertimescant, qui carnalibus desideriis pressi, ad eorum se societatem~
-pertingere posse desperant Vos autem, cur pertimescitis, quae vestros concives~
-videtis? Unde et Matthaeus Angelum apparuisse describens, ait: Erat aspectus~
-ejus sicut fulgur, et vestimenta ejus sicut nix. In fulgure etenim terror~
-timoris est, in nive autem blandimentum candoris.
+@Tempora/Pasc0-0:Lectio1:s/ Illæ.*//s
 
 [Responsory9]
-R. Expurgate vetus fermentum, ut sitis nova conspersio: etenim Pascha nostrum~
-imolatus est Christus:
-* Itaque epulemur in Domino, alleluia.
-V. Mortuus est propter delicta nostra, et resurrexit propter justificationem~
-nostram.
-R. Itaque epulemur in Domino, alleluia.
-&Gloria
-R. Itaque epulemur in Domino, alleluia.
+@Tempora/Pasc0-4:Responsory1
 
-[Ant Laudes]
-Angelus autem Domini * descendit de caelo, et accedens revolvit lapidem, et sedebat super eum, alleluia, alleluia.
-Et ecce terraemotus * factus est magnus: Angelus enim Domini descendit de caelo, alleluia.
-Erat autem * aspectus ejus sicut fulgur, vestimenta autem ejus sicut nix, alleluia, alleluia.
-Prae timore autem ejus * exterriti sunt custodes, et facti sunt velut mortui, alleluia.
-Respondens autem Angelus, * dixit mulieribus: Nolite timere: scio enim quod Jesum queritis, alleluia.
+[Lectio10]
+@Tempora/Pasc0-0:Lectio1:s/.*Illæ/Illæ/s s/$/~/
+@Tempora/Pasc0-0:Lectio2:s/ Quia.*//s
+
+[Responsory10]
+@Tempora/Pasc0-4:Responsory2
+
+[Lectio11]
+@Tempora/Pasc0-0:Lectio2:s/.*Quia/Quia/s
+
+[Responsory11]
+@Tempora/Pasc0-5:Responsory1
+
+[Lectio12]
+@Tempora/Pasc0-0:Lectio3
+
+[Responsory12]
+@Tempora/Pasc0-5:Responsory2
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+@Psalterium/Major Special:PaschM Laudes:3-8
 
 [Versum 2]
-V. Haec dies quam fecit Dominus
-R. Exsultemus et laetemur in ea.
+V. Hæc dies, quam fécit Dominus.
+R. Exsultémus et lætémur in ea.
 
-[Ant 2]
-Et valde mane * una sabbatorum veniunt ad monumentum, orto jam sole, alleluia.
+[Capitulum Tertia]
+!1 Cor 5:7
+v. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus.
+$Deo gratias
 
-[Oratio 2]
-Deus, qui hodierna die per Unigenitum tuum aeternitatis nobis editum devicta~
-morte reserasti: vota nostra, quae praeveniendo aspiras, etiam adjuvando~
-prosequere.
-$Per eumdem
+[Responsory Tertia]
+V. Hæc dies quam fecit Dóminus.
+R. Exsultémus et lætémur in ea.
 
-[Special Vespera 1]
-#Sabbato Sancto special Paschal Vespera
+[Capitulum Sexta]
+!1 Cor 5:8
+v. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis.
+$Deo gratias
+
+[Responsory Sexta]
+@:Responsory Tertia
+
+[Capitulum Nona]
+!Col 3:1-2
+v. Si consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens: quæ sursum sunt sápite, non quæ super terram.
+$Deo gratias
+
+[Responsory Nona]
+@:Responsory Tertia
+
+[Capitulum Vespera]
+@:Capitulum Tertia
 _
-Ant. Alleluia, * Alleluia, Alleluia
-&psalm(116)
-Ant. Alleluia, * Alleluia, Alleluia
-_
-Ant. Vespere autem sabbati * quae lucescit in prima sabbati, venit Maria Magdalene
-et altera Maria videre sepulcrum, Alleluia
-&canticum(2)
-&Gloria
-{::}Ant. Vespere autem sabbati * quae lucescit in prima sabbati, venit Maria Magdalene
-et altera Maria videre sepulcrum, Alleluia
-
-&Dominus_vobiscum
-v. Oremus
-v. Spritum nobis Domine tuae caritatis infunde; ut quos sacramentis paschalibus
-satiasti, tu facias pietate concordes
-$Per Dominum
-&Dominus_vobiscum
-
-V. Benedicamus Domino, alleluia, alleluia
-R. Deo gratias, alleluia, alleluia
-$Fidelium animae
-$Pater noster
-
-[Ant Vespera]
-Angelus autem Domini * descendit de caelo, et accedens revolvit lapidem, et sedebat super eum, allelua, alleluia.
-Et ecce terraemotus * factus est magnus: Angelus enim Domini descendit de caelo, alleluia.
-Erat autem * aspectus ejus sicut fulgur, vestimenta autem ejus sicut nix, alleluia, alleluia.
-Respondens autem Angelus, * dixit mulieribus: Nolite timere: scio enim quod Jesum quaeritis, alleluia.
-
-[Ant 3]
-Et respicientes * viderunt revolutum lapidem: erat quippe magnus valde,~
-alleluia.
+@Psalterium/Major Special:PaschM Laudes:3-8
 
 [Versum 3]
-V. Benedicamus Domino * Alleluia, alleluia
-R. Deo gratias * Alleluia, alleluia
+@:Versum 2
 
-[Ant 43]
-Ant. Alleluia, Alleluia, Alleluia, Alleluia
-&canticum(3)
-&Gloria
-_
-!Versum.
-{::}V. Haec dies quam fecit Dominus:
-R. Exsultemus et laetemur in ea.
-
-[LectioE]
-v. Sequentia Sancti Evangelii secundum Marcum
-!Marc 16:1-7
-16:1 Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome~
-emerunt aromata ut venientes ungerent Jesum.
-16:2 Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole.
-16:3 Et dicebant ad invicem: Quis revolvet nobis lapidem ab ostio monumenti?
-16:4 Et respicientes viderunt revolutum lapidem. Erat quippe magnus valde.
-16:5 Et intro�untes in monumentum viderunt juvenem sedentem in dextris,~
-coopertum stola candida, et obstupuerunt.
-16:6 Qui dicit illis: Nolite expavescere: Jesum quaeritis Nazarenum, crucifixum:~
-surrexit, non est hic, ecce locus ubi posuerunt eum.
-16:7 Sed ite, dicite discipulis ejus, et Petro, quia praecedit vos in Galilaeam:~
-ibi eum videbitis, sicut dixit vobis.
-$Te decet

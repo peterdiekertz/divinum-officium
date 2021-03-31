@@ -1,8 +1,8 @@
 [Pater noster]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
+v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
 
 [Pater_noster1]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra.  Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris:
+v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra.  Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris:
 V. Et ne nos indúcas in tentatiónem:
 R. Sed líbera nos a malo.
 
@@ -37,10 +37,19 @@ R. Et clamor meus ad te véniat.
 /:secunda 'Domine, exaudi' omittitur:/
 
 [Confiteor]
-v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis,  quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
+v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis,  quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ídeo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
+
+[ConfiteorM]
+@:Confiteor:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
+
+[ConfiteorOP]
+v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domíníco Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor orare pro me.
 
 [Misereatur]
 v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
+
+[MisereaturOP]
+v. Misereatur mei omnipotens Deus, et dimittat mihi omnia peccata mea, liberet me ab omni malo, salvet, et confirmet in omni opere bono, et perducat me ad vitam aeternam. Amen.
 
 [Indulgentiam]
 v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus. Amen.
@@ -63,7 +72,7 @@ R. Deo grátias.
 
 [Benedicamus Domino1]
 V. Benedicámus Dómino, allelúja, allelúja.
-R. Deo grátias, allelúia, allelúja.
+R. Deo grátias, allelúja, allelúja.
 
 [Deo gratias]
 R. Deo grátias.
@@ -73,18 +82,22 @@ V. Fidélium ánimæ per misericórdiam Dei requiéscant in pace.
 R. Amen.
 
 [Per Dominum]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.
+r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Per Dominum eiusdem]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.
+r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Qui cum Patre]
-r. Qui cum Pátre et Spíritu Sancto vivis et regnas Deus per ómnia sǽcula sæculórum.
+r. Qui cum Pátre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Per eumdem]
+r. Per eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+R. Amen.
+
+[Per eundem]
 r. Per eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
@@ -93,11 +106,11 @@ r. Qui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ó
 R. Amen.
 
 [Qui tecum]
-r. Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.
+r. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Qui tecum eiusdem]
-r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus per ómnia sǽcula sæculórum.
+r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Te Deum]
@@ -120,7 +133,7 @@ Tu Rex glóriæ, * Christe.
 Tu Patris * sempitérnus es Fílius.
 _
 !Fit reverentia
-Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis uterum.
+Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
 _
 Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
 Tu ad déxteram Dei sedes, * in glória Patris.
@@ -181,7 +194,12 @@ v. Orémus.
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
 
 [MLitany]
-v. Kýrie eléison. Christe, eléison. Kýrie, eléison.
+v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
+&pater_noster
+
+[MLitany2]
+v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
+!« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
 &pater_noster
 
 [Alleluia Simplex]

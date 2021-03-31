@@ -33,42 +33,60 @@ Most és örök időkön át.
 #Psalmi
 
 #Capitulum Versus
-R. Istennek legyen hála
+$Deo gratias
 _
 V. Kelj fel, Krisztus, segíts meg minket.
 R. És szabadíts meg a te nevedért.
 
-!!Preces
-v. Uram, irgalmazz nekünk! Krisztus, kegyelmezz nekünk! Uram, irgalmazz nekünk!
-&pater_noster
-$Credo
-V. Segítségünk + az Úr nevében.
-R. Aki az eget és földet alkotta.
-$Confiteor
-$Misereatur
-$Indulgentiam
-V. Uram, add, hogy a mai napot.
-R. Bűn nélkül fejezzük be.
-&Dominus_vobiscum
-
-v. Könyörögjünk.
-Urunk és Istenünk, ég és föld királya, irányítsd és szenteld meg, vezesd és kormányozd szívünket és testünket, érzékeinket, beszédünket és cselekedeteinket a mai napon a te parancsaid szerint, hogy most és örökre a te segítségeddel, világ Megváltója, szabadok és épek maradhassunk. Aki élsz és uralkodol mindörökkön-örökké.
-R. Ámen.
+#Orationes
+$MLitany2
 _
-V. Áldj meg minket, Uram.
-Benedictio. Napjaink és cselekedeteink a te békédben teljenek el, mindenható Isten. Ámen.
-
-&regula
+&Dominus_vobiscum
+$Oremus
+v. Mindenható Isten, aki a mai napot megadtad nekünk, őrizz meg minket a te erőddel, hogy ne engedjünk a bűn kísértésének és mindig a te igazságod vezesse gondolatainkat és cselekedeteinket.
+$Per Dominum
 
 #Conclusio
 &Dominus_vobiscum
-V. Segítségünk + az Úr nevében.
-R. Aki az eget és földet alkotta.
-V. Mondjatok áldást.
-R. Istenünk.
-V. Áldjon meg minket az Úr, + szabadítson meg minden gonosztól és vezessen el az örök életre, és a megholt hívek lelkei Isten irgalmasságából nyugodjanak békességben.
+&Benedicamus_Domino
+
+!Here Prima finishes rest is optional
+
+&martyrologium
+_
+V. Értékes az Úr szemében.
+R. Szentjei halála.
+v. Szűz Mária és Isten minden szentje, járjatok közben érettünk az Úrnál, hogy annak segítségével boldoguljunk, aki él és uralkodik mindörökkön-örökké.
 R. Ámen.
-R.br. Megemlékezés testvéreinkről, rendünk barátairól es jótevőinkről. 
+
+V. Istenem, jöjj segítségemre!
+R. Uram, segíts meg engem!
+V. Istenem, jöjj segítségemre!
+R. Uram, segíts meg engem!
+V. Istenem, jöjj segítségemre!
+R. Uram, segíts meg engem!
+&Gloria
+_
+$MLitany2
+V. Figyelj, Uram, szolgáidra és cselekedeteikre, irányítsd fiaidat.
+R. Az Úr fényessége legyen felettünk és cselekedeteink felett; irányítsa minden döntésünket.
+&Gloria
+v. Könyörögjünk. 	
+v. Urunk és Istenünk, ég és föld királya, irányítsd és szenteld meg, vezesd és kormányozd szívünket és testünket, érzékeinket, beszédünket és cselekedeteinket a mai napon a te parancsaid szerint, hogy most és örökre a te segítségeddel, világ Megváltója, szabadok és épek maradhassunk. 
+v. Aki élsz és uralkodol mindörökkön-örökké.
+R. Ámen.
+
+V. Áldj meg minket, Uram.
+Benedictio. Napjaink és cselekedeteink a te békédben teljenek el, mindenható Isten. Ámen.
+_
+&regula
+
+#Lectio brevis
+V. Te pedig, Uram, irgalmazz nekünk.
+R. Istennek legyen hála.
+
+#Commemoratio defunctorum
+R.br. Megemlékezés testvéreinkről, rendünk barátairól es jótevőinkről.
 V. Nyugodjanak békében.
 R. Ámen.
 _
@@ -78,13 +96,11 @@ V. From the gates of the grave.
 R. Deliver their souls, O Lord!
 V. Nyugodjanak békében.
 R. Ámen.
+_
 V. Hear my prayer, O Lord.
 R. And let my cry come unto thee.
 _
 &Dominus_vobiscum2
-$Oremus
-O God the giver of pardon, and the lover of human salvation, we beseech thy clemency: that thou grant the brethren of our congregation, kinsfolk, and benefactors, which are departed out of this world, blessed Mary ever virgin making intercession with all the saints, to come to the fellowship of eternal blessedness. Through our Lord Jesus Christ.
-R. Ámen.
 _
 V. Adj, Uram, örök nyugodalmat nekik.
 R. És az örök világosság fényeskedjék nekik.

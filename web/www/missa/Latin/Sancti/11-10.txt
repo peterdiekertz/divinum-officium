@@ -1,5 +1,5 @@
 [Rank]
-S. Andreae Avellini Confessoris;;Duplex;;3;;vide C5
+S. Andreæ Avellini Confessoris;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5;
@@ -18,7 +18,7 @@ quibus nos et præséntibus éxui malis confídimus et futúris.
 $Per Dominum
 
 [Postcommunio]
-Refécti cibo potúque coelésti, Deus noster, te súpplices exorámus: ut, in cujus~
+Refécti cibo potúque cœlésti, Deus noster, te súpplices exorámus: ut, in cujus~
 hæc commemoratióne percépimus, ejus muniámur et précibus.
 $Per Dominum
 

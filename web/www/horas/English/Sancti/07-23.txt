@@ -20,14 +20,14 @@ $Per Dominum
 !Commemoration of St. Liborius, Bishop and Confessor
 @Commune/C4:Oratio proper
 $Oremus.
-Grant, we beseech thee, almighty God, that the venerable solemnity of blessed Liborius, thy confessor and bishop, may increase our devotion and promote our salvation.
+v. Grant, we beseech thee, almighty God, that the venerable solemnity of blessed Liborius, thy confessor and bishop, may increase our devotion and promote our salvation.
 $Per Dominum.
 
 [Commemoratio Sabbat]
 !Commemoratio S. Liborii Ep. Conf.
 @Commune/C4:Oratio proper
 $Oremus
-Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop Liborius, and, for the sake of him who so nobly served thee, forgive us our trespasses.
+v. Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop Liborius, and, for the sake of him who so nobly served thee, forgive us our trespasses.
 $Per Dominum
 
 [Lectio4]
@@ -110,7 +110,7 @@ all, and have followed thee. (Matth. xix. 27.)
 Apollinaris came from Antioch to Rome with the Prince of the Apostles, who ordained him a bishop and sent him to Ravenna to preach the Gospel of the Lord Christ. Here, when Apollinaris had converted many pagans to faith in Christ, he was seized by the priests of the idols and beaten severely. When his prayers brought the gift of speech to a nobleman named Boniface who had been dumb for a long time and freed his daughter from an unclean spirit, a commotion was again raised against Apollinaris, and he suffered many kinds of torments. Afterwards, preaching the Gospel throughout Emilia, he turned many of the people away from the worship of idols. He came back to Ravenna, exhorted the Christians to constancy in the faith and died the glorious death of a martyr. His body was buried near the city wall.
 &teDeum
 
-[Commemoratio 3] (rubrica Divino aut rubrica Tridentina)
+[Commemoratio 3] (rubrica divino aut rubrica tridentina)
 !Commemoratio S. Christinae.
 @Commune/C6:Oratio proper
 $Oremus

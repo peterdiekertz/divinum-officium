@@ -1,214 +1,133 @@
+@Sancti/01-01
+
 [Rank]
-In Circumcisione Domini;;Duplex II classis;;5.1;;ex SanctiM/12-25
+Die Octavæ Nativitatis Domini;;Duplex I classis;;7;;ex Sancti/12-25
 
 [Rule]
-ex SanctiM/12-25;
-Psalmi Dominica
-Antiphonas Horas
-9 lectiones
-
-[Ant Vespera]
-O admirabile commercium: * Creator generis humani animatum corpus sumens, de Virgine nasci dignatus est: et procedens homo sine semine, largitus est nobis suam Deitatem.;;109
-Quando natus es * ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus Deus noster.;;112
-Rubum quem viderat Moyses * incombustum, conservatam agnovimus tuam laudabilem virginitatem: Dei Genitrix, intercede pro nobis.;;121
-Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.;;126
+12 lectiones
+no Commemoratio
 
 [Capitulum Vespera]
-!Titus 2:11-12
-v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut~
-abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus~
-in hoc saeculo.
-$Deo gratias
+@Sancti/01-01
 _
-.br. Verbum caro factum est, * Alleluia, alleluia.
-R. Verbum caro factum est, * Alleluia, alleluia.
-V. Et habitavit in nobis.
-R. Alleluia, alleluia.
-&Gloria
-R. Verbum caro factum est, * Alleluia, alleluia.
+@Sancti/12-25:Responsory Tertia:1-6
 
 [Versum 1]
-V. Notum fecit Dominus, alleluia.
-R. Salutare suum, alleluia.
-
-[Ant 1]
-Propter nimiam * caritatem suam, qua dilexit nos Deus, Filium suum misit in~
-similitudinem carnis peccati, alleluia.
-
-[Oratio]
-Deus, qui salutis aeternae, beatae Mariae virginitate foecunda, humano generi~
-praemia praestitisti: tribue quaesumus; ut ipsam pro nobis intercedere sentiamus,~
-per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum~
-Filium tuum:
-$Qui tecum
+@Sancti/12-25:Versum 2
 
 [Ant Matutinum]
-Dominus dixit * ad me Filius meus es tu, ego hodie genui te;;2
-In sole posuit * tabernaculum suum: et ipse tamquam sponsus procedens de thalamo suo;;18
-Elevamini * portae aeternales, et introibit Rex gloriae;;23
-Speciosus forma * prae filiis hominum, diffusa est gratia in labiis tuis;;44
-Suscepimus Deus * misericordiam tuam in medio templi tui;;47
-Orietur * in diebus Domini abundantia pacis, et dominabitur;;71
+Dóminus dixit * ad me: Fílius meus es tu, ego hódie génui te.;;2
+In sole pósuit * tabernáculum suum: et ipse tamquam sponsus procédens de thálamo suo.;;18
+Elevámini, * portæ æternáles, et introíbit Rex glóriæ.;;23
+Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44
+Suscépimus, * Deus, misericórdiam tuam † in médio templi tui.;;47
+Oriétur * in diébus Dómini abundántia pacis, † et dominábitur.;;71
 V. Tamquam sponsus.
-R. Dominus procedens de thalamo suo.
-Veritas * de terra orta est, et justitia de caelo prospexit;;84
-Homo natus est * in ea, et ipse fundavit eam Altissimus;;86
-Exsultabunt omnia ligna silvarum * ante faciem Domini, quoniam venit;;95
-In principio * et ante saecula Deus erat Verbum, et ipse natus est hodie Salvator mundi;;96
-Ante luciferum genitus * et ante saecula, Dominus Salvator noster hodie nasci dignatus est;;97
-Nato Domino * Angelorum chorus canebat, dicens: Salus Deo nostro, sedenti super thronum, et Agno;;98
-V. Speciosus forma prae filiis hominum.
-R. Diffusa est gratia in labiis tuis.
-Beatus venter * qui te portavit, et beata ubera quae te lactaverunt Dominum et Salvatorem mundi, alleluia.;;263;264;265
-V. Notum fecit Dominus, alleluia.
-R. Salutare suum, alleluia.
+R. Dóminus procédens de thálamo suo.
+Véritas * de terra orta est, † et justítia de cælo prospéxit.;;84
+Homo natus est * in ea, et ipse fundávit eam Altíssimus.;;86
+Exsultábunt ómnia ligna * silvárum ante fáciem Dómini, quóniam venit.;;95
+In princípio, * et ante sǽcula Deus erat Verbum, et ipse natus est hódie Salvátor mundi.;;96
+Ante lucíferum génitus, * et ante sǽcula, Dóminus Salvátor noster hódie nasci dignátus est.;;97
+Nato Dómino, * Angelórum chorus canébat, dicens: Salus Deo nostro, sedénti super thronum, et Agno.;;98
+V. Speciósus forma præ fíliis hóminum.
+R. Diffúsa est grátia in lábiis tuis.
+Beátus * venter qui te portávit, et beata úbera, † quae te lactavérunt Dóminum et Salvatórem mundi, allelúja.;;263;264;265
+V. Notum fecit Dóminus, allelúja.
+R. Salutáre suum, allelúja.
 
 [Lectio1]
-@Tempora/01-01:Lectio1
-
-[Responsory1]
-R. Ecce Agnus Dei, ecce qui tollit peccata mundi: ecce de quo dicebam vobis: Qui~
-post me venit, ante me factus est:
-* Cujus non sum dignus corrigiam calceamenti solvere.
-V. Qui de terra est, de terra loquitur: qui de caelo venit, super omnes est.
-R. Cujus non sum dignus corrigiam calceamenti solvere.
+@Sancti/01-01:Lectio1:s/-8/-5/ s/6 .*//s
 
 [Lectio2]
-@Tempora/01-01:Lectio2
-
-[Responsory2]
-R. Dies sanctificatus illuxit nobis: venite Gentes, et adorate Dominum:
-* Quia hodie descendit lux magna in terris.
-V. Haec dies quam fecit Dominus, exsultemus et laetemur in ea.
-R. Quia hodie descendit lux magna in terris.
+@Sancti/01-01:Lectio1:s/1-/6-/ s/1 .*6 /6 /s
 
 [Lectio3]
-@Tempora/01-01:Lectio3
-
-[Responsory3]
-R. Benedictus qui venit in nomine Domini, Deus Dominus, et illuxit nobis:
-* Alleluia, alleluia.
-V. Haec dies quam fecit Dominus, exsultemus et laetemur in ea.
-R. Alleluia, alleluia.
-&Gloria
-R. Alleluia, alleluia.
+@Sancti/01-01:Lectio2:
 
 [Lectio4]
-@Tempora/01-01:Lectio4
+@Sancti/01-01:Lectio3
 
 [Responsory4]
-R. Congratulamini mihi omnes qui diligitis Dominum
-* Quia cum essem parvula, placui Altissimo, et de meis visceribus genui Deum et~
-hominem.
-V. Beatam me dicent omnes generationes, quia ancillam humilem respexit Deus.
-R. Quia cum essem parvula, placui Altissimo, et de meis visceribus genui Deum et~
-hominem.
+R. Hic qui advénit, nemo scit nomen eius nisi ipse solus: † vocátur verbum Dómini habens vestem praecláram:
+* Et omnis chorus Angelórum in albis sequúntur eum.
+V. Oculi eius velut flamma ignis: † et in cápite eius diadémata multa.
+R. Et omnis chorus Angelórum in albis sequúntur eum.
 
 [Lectio5]
-@Tempora/01-01:Lectio5
+@Sancti/01-01:Lectio4
 
 [Responsory5]
-R. Confirmatum est cor Virginis, in quo divina mysteria, Angelo nuntiante,~
-concepit: tunc speciosum forma prae filiis hominum castis suscepit visceribus:
-* Et benedicta in aeternum, Deum nobis protulit et hominem.
-V. Domus pudici pectoris templum repente fit Dei, intacta nesciens virum, verbo~
-concepit Filium.
-R. Et benedicta in aeternum, Deum nobis protulit et hominem.
+@Sancti/01-01:Responsory4
 
 [Lectio6]
-@Tempora/01-01:Lectio6
+@Sancti/01-01:Lectio5:s/Et simíliter .*//s
 
 [Responsory6]
-R. Benedicta et venerabilis es Virgo Maria, quae sine tactu pudoris inventa es~
-mater Salvatoris:
-* Jacebat in praesepio, et fulgebat in caelo.
-V. Domine audivi auditum tuum, et timui: consideravi opera tua, et expavi: in~
-medio duorum animalium.
-R. Jacebat in praesepio, et fulgebat in caelo.
-&Gloria
-R. Jacebat in praesepio, et fulgebat in caelo.
+@Sancti/01-01:Responsory5
 
 [Lectio7]
-@Tempora/01-01:Lectio7
+@Sancti/01-01:Lectio5:s/.* Et simíliter /Et simíliter /s s/$/~/
+@Sancti/01-01:Lectio6:s/Déitas .*//s
 
 [Responsory7]
-R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem caeli capere non poterant, tuo gremio contulisti.
-V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem caeli capere non poterant, tuo gremio contulisti.
+@Sancti/01-01:Responsory6
 
 [Lectio8]
-@Tempora/01-01:Lectio8
+@Sancti/01-01:Lectio6:s/.* Déitas /Déitas /s
 
 [Responsory8]
-R. Nesciens mater virgo virum, peperit sine dolore:
-* Salvatorem saeculorum, ipsum Regem Angelorum, sola virgo lactabat libere de~
-caelo pleno.
-V. Domus pudici pectoris templum repente fit Dei: intacta nesciens virum, verbo~
-concepit Filium.
-R. Salvatorem saeculorum, ipsum Regem Angelorum, sola virgo lactabat libere de~
-caelo pleno.
-&Gloria
-R. Salvatorem saeculorum, ipsum Regem Angelorum, sola virgo lactabat libere de~
-caelo pleno.
+R. In própria venit, et sui eum non recepérunt: † quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri:
+* Qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.
+V. Si autem filii, et herédes: † herédes, quidem Dei, coherédes autem Christi.
+R. Qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.
 
 [Lectio9]
-@Tempora/01-01:Lectio9
+@Sancti/01-01:Lectio7:s/Vides .*//s
 
 [Responsory9]
-R. O Regem caeli, cui talia famulantur obsequentia: stabulo ponitur, qui~
-cintinet mundum
-* Jacet in praesepio, et in caelis regnat
-V. Natus et nobis hodie Salvator, qui est Christus Dominus, in civitate David
-R. Jacet in praesepio, et in caelis regnat
-&Gloria
-R. Jacet in praesepio, et in caelis regnat
+@Sancti/12-25:Responsory6
 
-[Ant Laudes]
-O admirabile commercium: * Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est: et procedens homo sine semine, largitus est nobis suam Deitatem.
-Quando natus es * ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus Deus noster.
-Rubum quem viderat Moyses * incombustum, conservatam agnovimus tuam laudabilem virginitatem: Dei Genitrix, intercede pro nobis.
-Germinavit radix Jesse, * orta est stella ex Jacob: Virgo peperit Salvatorem: te laudamus Deus noster.
-Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.
+[Lectio10]
+@Sancti/01-01:Lectio7:s/.* Vides /Vides /s
+@Sancti/01-01:Lectio8:s/Dénique .*//s
+
+[Responsory10]
+@Sancti/01-01:Responsory8
+
+[Lectio11]
+@Sancti/01-01:Lectio8:s/.* Dénique /Dénique /s s/$/~/
+@Sancti/01-01:Lectio9:s/Nam si .*//s
+
+[Responsory11]
+R. Párvulus natus est nobis, et fílius datus est nobis, † et factus est principátus super húmerum eius:
+* Et vocábitur Admirábilis, Deus Fortis.
+V. Multiplicabitur eius imperium, † et pacis non erit finis.
+R. Et vocábitur Admirábilis, Deus Fortis.
+
+[Lectio12]
+@Sancti/01-01:Lectio9:s/.* Nam si /Nam si /s
+
+[Responsory12]
+@Tempora/Nat1-0:Responsory8
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+@Sancti/01-01
+_
+@Sancti/12-25:Responsory Sexta:1-6
 
-[Versum 2]
-V. Verbum caro factum est, alleluia.
-R. Et habitavit in nobis, alleluia.
+[Responsory Tertia]
+@Sancti/12-25:Responsory Nona:8-9
 
-[Ant 2]
-Mirabile mysterium * declaratur hodie: innovantur naturae, Deus homo factus est:~
-id quod fuit permansit, et quod non erat assumpsit; non commixtionem passus,~
-neque divisionem.
-
-[Capitulum Tertia]
-!Titus 2:11-12
-v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut~
-abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus~
-in hoc saeculo.
-$Deo gratias
+[Responsory Sexta]
+@Sancti/12-25:Versum 2
 
 [Capitulum Sexta]
-!Heb 1:10
-v. Et Tu in principio Domine terram fundasti: et opera manuum tuarum sunt caeli.
-$Deo gratias
+@Sancti/12-25
+
+[Responsory Nona]
+@Sancti/12-25:Responsory Sexta:8-9
 
 [Capitulum Nona]
-!Heb 1:11-12
-v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
-et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
-non deficient.
-$Deo gratias
+@Sancti/12-25
 
-[Ant 3]
-Magnum hereditatis * mysterium: templum Dei factus est uterus nescientis~
-virum: non est pollutus ex ea carnem assumens: omnes gentes venient, dicentes:~
-Gloria tibi Domine.
-
-[LectioE]
-Sequentia sancti Evangelii secundum Lucam.
-!Luc 2:21
-2:21 Postquam consummati sunt dies octo, ut circumcideretur puer: vocatum est~
-nomen ejus Jesus, quod vocatum est ab Angelo, priusquam in utero conciperetur.

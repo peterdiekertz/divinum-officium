@@ -1,7 +1,15 @@
-@Tempora/111-0
+[Responsory4]
+R. He hath redeemed His people, and ransomed them therefore they shall come and sing in the height of Zion, and shall rejoice in the goodness of the Lord, for wheat, and for wine, and for oil
+* And they shall hunger no more.
+V. And their soul shall be as a watered garden.
+R. And they shall hunger no more.
 
-[Responsory8]
-@TemporaM/Pent03-0:Responsory8
+[Lectio6]
+@Tempora/111-0:Lectio5:s/Hence .*//s
 
-[Responsory9]
-@TemporaM/Pent03-0:Responsory9
+[Lectio7]
+@Tempora/111-0:Lectio5:s/.* Hence /Hence /s
+@Tempora/111-0:Lectio6:s/The words .*//s
+
+[Lectio8]
+@Tempora/111-0:Lectio6:s/.* The words /The words /s

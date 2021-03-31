@@ -7,17 +7,17 @@ The Feast of the most holy Name of Jesus.
 [Nat2-0]
 The Feast of the Holy Family of Jesus, Mary, and Joseph, by which a most holy example is afforded to Christian families who properly invoke their aid.
 
-[Quadp1=0]
+[Quadp1-0]
 Septuagesima Sunday, on which the canticle of the Lord, Alleluia, ceaseth to be said.
 
 [Quadp3-3]
-The Day of Ashes, and the beginning of the most holy fast of Lent.
+Ash Wednesday, and the beginning of the most holy fast of Lent.
 
 [Quad5-0]
 The Sunday of the Passion.
 
 [Quad5-5]
-The Festival of the Seven Dolors of the most blessed Virgin Mary.
+The Festival of the Seven Dolors of the Most Blessed Virgin Mary.
 
 [Quad6-0]
 Palm Sunday, when our Lord Jesus Christ, according to the prophecy of Zacharias, entered into Jerusalem, seated upon the foal of an ass, and was met by the multitude bearing palms.
@@ -42,7 +42,7 @@ At Rome, the Lesser Litanies in the church of St. Mary Major.
 At Rome, the Lesser Litanies in the church of St. John Lateran.
 
 [Pasc5-3]
-Romæ Litaníæ minóres ad sanctum Petrum.
+RomÃ¦ LitanÃ­Ã¦ minÃ³res ad sanctum Petrum.
  
 [Pasc5-3]	
 The Vigil of the Ascension of our Lord Jesus Christ.

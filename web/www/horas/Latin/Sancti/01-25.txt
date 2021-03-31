@@ -1,9 +1,6 @@
 [Rank]
 In Conversione S. Pauli Apostoli;;Duplex majus;;4;;ex Sancti/06-30
 
-[RankNewcal]
-In Conversione S. Pauli Apostoli;;Duplex Fest;;5;;ex Sancti/06-30
-
 [Rule]
 ex Sancti/06-30;
 9 lectiones
@@ -62,7 +59,7 @@ De Actibus Apostolórum
 [Lectio4]
 Sermo sancti Augustíni Epíscopi
 !Sermo 14 de Sanctis
-Hodie de Actibus Apostolórum léctio hæc pronuntiáta est, ubi Paulus Apóstolus, ex persecutore Christianórum, annuntiátor factus est Christi. Prostrávit enim Christus persecutórem, ut fáceret Ecclésiæ doctórem: percutiens eum, et sanans; occidens, et vivíficans: occisus agnus a lupis, et fáciens agnos de lupis. Ita enim in præclára prophetía cum Jacob Pátriarcha benediceret fíliis suis (præséntes tangens, futura prospíciens) prædictum erat quod in Paulo cóntigit. Erat autem Paulus, sicut ipse testátur, de tribu Benjamin. Cum autem Jacob, benedicens fílios suos, venísset ad benedicéndum Benjamin, ait de illo: Benjamin lupus rapax.
+Hodie de Actibus Apostolórum léctio hæc pronuntiáta est, ubi Paulus Apóstolus, ex persecutore Christianórum, annuntiátor factus est Christi. Prostrávit enim Christus persecutórem, ut fáceret Ecclésiæ doctórem: percútiens eum, et sanans; occidens, et vivíficans: occisus agnus a lupis, et fáciens agnos de lupis. Ita enim in præclára prophetía cum Jacob Pátriarcha benediceret fíliis suis (præséntes tangens, futura prospíciens) prædictum erat quod in Paulo cóntigit. Erat autem Paulus, sicut ipse testátur, de tribu Benjamin. Cum autem Jacob, benedicens fílios suos, venísset ad benedicéndum Benjamin, ait de illo: Benjamin lupus rapax.
 
 [Lectio5]
 Quid ergo? lupus rapax semper? Absit; sed qui mane rapit prædam, ad vésperam dividit escas. Hoc in Apóstolo Paulo impletum est, quia et de illo dictum erat. Jam, si placet, audiámus illum mane rapientem, ad vésperam escas dividéntem. Mane et véspere pósita sunt pro eo, ac si dicerétur, prius et póstea. Sic ergo accipiámus: Prius rapiet, póstea dividet escas. Atténdite raptórem: Saulus, inquit, acceptis epistolis a princípibus sacerdotum, ibat, ut ubicúmque inveníret Christiános, ad sacerdótes attraheret et adduceret, útique puniendos.
@@ -107,7 +104,7 @@ V. Tu es Petrus.
 R. Et super hanc petram ædificábo Ecclésiam meam.
 _
 $Oremus
-(sed rubrica 1960 hæc versus omittuntur)
+(sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
 v. Deus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cæléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis eius auxílio, a peccatórum nostrórum néxibus liberémur:
 $Qui vivis
 

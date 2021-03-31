@@ -49,11 +49,14 @@ Cum Patre et almo Spiritu,
 In sempitérna sǽcula.
 Amen.
 
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/Jesu, tibi sit glória/Glória tibi Dómine/
+
 [Lectio1]
 De Jeremía Prophéta
 !Jer 31:15-17
 15 Hæc dicit Dóminus: Vox in excélso audíta est lamentatiónis, luctus, et fletus Rachel plorántis fílios suos, et noléntis consolári super eis, quia non sunt. 
-16 Hæc dicit Dóminus: Quiéscat vox tua a plorátu, et óculi tui a lácrimis: quia est merces operi tuo, ait Dóminus: et reverténtur de terra inimíci. 
+16 Hæc dicit Dóminus: Quiéscat vox tua a plorátu, et óculi tui a lácrimis: quia est merces óperi tuo, ait Dóminus: et reverténtur de terra inimíci. 
 17 Et est spes novíssimis tuis, ait Dóminus: et reverténtur fílii ad términos suos.
 
 [Responsory1]
@@ -77,7 +80,7 @@ R. Quare non deféndis sánguinem nostrum? Et accepérunt divínum respónsum: A
 [Lectio3]
 !Jer 31:21-23
 21 Státue tibi spéculam, pone tibi amaritúdines: dírige cor tuum in viam rectam, in qua ambulásti: revértere, virgo Israël, revértere ad civitátes tuas istas. 
-22 Usquéquo delíciis dissólveris, fília vaga? quia creávit Dóminus novum super terram: Fémina circúmdabit virum. 
+22 Usquequo delíciis dissólveris, fília vaga? quia creávit Dóminus novum super terram: Fémina circúmdabit virum. 
 23 Hæc dicit Dóminus exercítuum Deus Israël: Adhuc dicent verbum istud in terra Juda, et in úrbibus ejus, cum convértero captivitátem eórum: Benedícat tibi Dóminus, pulchritúdo justítiæ, mons sanctus.
 
 [Responsory3]
@@ -91,7 +94,7 @@ R. Mitténtes corónas suas ante thronum Dómini Dei sui.
 [Lectio4]
 Sermo sancti Augustíni Epíscopi
 !Sermo 10 de Sanctis
-Hódie, fratres caríssimi, natálem illórum infántium cólimus, quos ab Heróde crudelíssimo rege interféctos esse, Evangélii textus elóquitur. Et ídeo cum summa exsultatióne gaudeat terra, cæléstium mílitum et tantárum parens fecúnda virtútum. Ecce profánus hostis nunquam beátis párvulis tantum prodésse potuísset obséquio, quantum prófuit ódio. Nam, sicut sacratíssimum præséntis diéi festum maniféstat, quantum in beatos párvulos iníquitas abundávit, tantum in eis grátia benedictiónis refúdit.
+Hódie, fratres caríssimi, natálem illórum infántium cólimus, quos ab Heróde crudelíssimo rege interféctos esse, Evangélii textus elóquitur. Et ídeo cum summa exsultatióne gáudeat terra, cæléstium mílitum et tantárum parens fecúnda virtútum. Ecce profánus hostis nunquam beátis párvulis tantum prodésse potuísset obséquio, quantum prófuit ódio. Nam, sicut sacratíssimum præséntis diéi festum maniféstat, quantum in beátos párvulos iníquitas abundávit, tantum in eis grátia benedictiónis refúdit.
 
 [Responsory4]
 R. Effudérunt sánguinem Sanctórum velut aquam in circúitu Jerúsalem: 
@@ -109,7 +112,7 @@ V. Víndica, Dómine, sánguinem Sanctórum tuórum, qui effúsus est.
 R. Quia clamant ad te cotídie.
 
 [Lectio6]
-Aliórum quidem pretiósa mors Mártyrum laudem in confessióne proméruit, horum in consummatióne complácuit; quia incipiéntis vitæ primórdiis, ipse eis occásus inítium glóriæ dedit, qui præséntis términum impósuit. Quos Heródis impíetas lactántes matrum ubéribus abstráxit; qui jure dicúntur Mártyrum flores, quos in médio frígore infidelitátis exórtos, velut primas erumpéntes Ecclésiæ gemmas, quædam persecutiónis pruína decoxit.
+Aliórum quidem pretiósa mors Mártyrum laudem in confessióne proméruit, horum in consummatióne complácuit; quia incipiéntis vitæ primórdiis, ipse eis occásus inítium glóriæ dedit, qui præséntis términum impósuit. Quos Heródis impíetas lactántes matrum ubéribus abstráxit; qui jure dicúntur Mártyrum flores, quos in médio frígore infidelitátis exórtos, velut primas erumpéntes Ecclésiæ gemmas, quædam persecutiónis pruína decóxit.
 
 [Responsory6]
 R. Isti sunt, qui non inquinavérunt vestiménta sua: 
@@ -152,7 +155,7 @@ Tunc adimplétum est, quod dictum est per Jeremíam prophétam dicéntem: Vox in
 [Responsory9]
 R. Isti, qui amicti sunt stolis albis, qui sunt, et unde venérunt? Et dixit mihi:
 * Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
-V. Vidi sub altáre Dei ánimas interfectórum propter verbum Dei, et propter testimónium quod habebant.
+V. Vidi sub altáre Dei ánimas interfectórum propter verbum Dei, et propter testimónium quod habébant.
 R. Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
 &Gloria
 R. Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
@@ -168,6 +171,9 @@ Sub throno Dei * omnes Sancti clamant: Víndica sánguinem nostrum, Deus noster.
 !Apo 14:1
 v. Vidi supra montem Sion Agnum stántem, et cum eo centum quadragínta quátuor míllia habéntes nomen ejus, et nomen Patris ejus scríptum in fróntibus suis.
 $Deo gratias
+
+[HymnusM Laudes]
+@:Hymnus Laudes:s/sub/ante/ s/Jesu, tibi sit glória/Glória tibi Dómine/
 
 [Hymnus Laudes]
 v. Salvéte, flores Mártyrum,
@@ -235,6 +241,9 @@ $Deo gratias
 [Hymnus Vespera]
 @Sancti/12-28:Hymnus Laudes
 
+[HymnusM Vespera]
+@Sancti/12-28:HymnusM Laudes
+
 [Versum 3]
 V. Sub throno Dei omnes Sancti clamant.
 R. Víndica sánguinem nostrum, Deus noster.
@@ -244,7 +253,7 @@ Innocéntes pro Christo * infántes occísi sunt, ab iníquo rege lacténtes int
 
 [Octava 2]
 !Commemoratio Octavæ Ss. Innocentium
-Ant. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt. Hi sequúntur Agnum quocúmque jerit.
+Ant. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt, et sequúntur Agnum quocúmque íerit.
 _
 V. Heródes irátus occídit multos púeros.
 R. In Béthlehem Judæ civitáte David.
@@ -254,4 +263,15 @@ v. Deus, cuius hodiérna die præcónium Innocéntes Mártyres non loquéndo, se
 $Per Dominum
 
 [Octava 3]
-@:Octava 2
+!Commemoratio Octavæ Ss. Innocentium
+Ant. Innocéntes pro Christo infántes occísi sunt, ab iníquo rege lacténtes interfécti sunt: ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine.
+_
+V. Sub throno Dei omnes Sancti clamant.
+R. Víndica sánguinem nostrum, Deus noster.
+_
+$Oremus
+v. Deus, cuius hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
+$Per Dominum
+
+[Octava 1]
+@:Octava 3

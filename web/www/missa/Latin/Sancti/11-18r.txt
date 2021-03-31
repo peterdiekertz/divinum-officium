@@ -4,18 +4,15 @@ In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex maius;;4;;ex C
 [Rank1960]
 In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex;;3;;ex C8
 
-[RankNewcal]
-In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex optional;;2;;vide C8
-
 [Rule]
 ex C8;
 Gloria
 CredoDA
 
 [Oratio]
-Deus, qui nobis per singulos annos hujus sancti templi tui consecrationis~
-reparas diem, et sacris semper mysteriis repraesentas incolumes: exaudi preces~
-populi tui, et praesta; ut quisquis hoc templum beneficia petiturus ingreditur,~
-cuncta se impetrasse laetetur.
+Deus, qui nobis per síngulos annos hujus sancti templi tui consecratiónis~
+réparas diem, et sacris semper mystériis repæséntas incólumes: exáudi preces~
+pópuli tui, et præsta; ut, quisquis hoc templum benefícia petitúrus ingréditur,~
+cuncta se impetrásse lætétur.
 $Per Dominum
 

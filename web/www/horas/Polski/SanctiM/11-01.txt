@@ -1,0 +1,6 @@
+[Lectio10]
+@Sancti/11-01:Lectio8:s/A naucza .*//s
+
+[Lectio11]
+@Sancti/11-01:Lectio8:s/.* A naucza /A naucza /s
+

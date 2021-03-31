@@ -1,11 +1,8 @@
 [Rank]
-S. Nominis Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
+S. Nominis Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11
 
 [Rank1960]
-S. Nominis Beatae Mariae Virginis;;Duplex;;3;;vide C11
-
-[RankNewcal]
-S. Nominis Beatae Mariae Virginis;;Duplex optional;;2;;vide C11
+S. Nominis Beatæ Mariæ Virginis;;Duplex;;3;;vide C11
 
 [Rule]
 vide C11;
@@ -26,7 +23,7 @@ eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne.
 [Oratio]
 Concéde, quǽsumus, omnípotens Deus: ut fidéles tui, qui sub sanctíssimæ~
 Vírginis Maríæ Nómine et protectióne lætántur; ejus pia intercessióne a cunctis~
-malis liberéntur in terris, et ad gáudia ætérna perveníre mereántur in coelis.
+malis liberéntur in terris, et ad gáudia ætérna perveníre mereántur in cœlis.
 $Per Dominum
 
 [Lectio]
@@ -45,7 +42,7 @@ Allelúja.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
 !Luc 1:26-38
-In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilaeæ, cui~
+In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilææ, cui~
 nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo~
 David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia~
 plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est~
@@ -67,7 +64,7 @@ Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et~
 benedíctus fructus ventris tui.
 
 [Secreta]
- Tua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad~
+Tua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad~
 perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.
 $Per Dominum
 

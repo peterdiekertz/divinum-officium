@@ -112,7 +112,7 @@ _
 !The fourth Prophecy
 !Exo. 14, 24; 15. 1
 ! As Moses freed the Israelites from the captivity of Egypt, so Christ by baptism reserves the catechumens from the yoke of Satan.
-In those days, it came to pass in the morning watch, and behold the Lord looking upon the Egyptian army through the pillar of fire, and of the cloud, slew their host: and overthrew the wheels of the chariots, and they were carried into the deep.  And the Egyptians said: Let us flee from Israel: for the Lord fighteth for them against us.  And the Lord said to Moses: Stretch forth thy hand over the sea, that the waters may com again upon the Egyptians, upon their chariots and horsemen.  And when Moses had stretched forth his hand towards the sea, it returned at the first break of day to the former place: and as the Egyptians were fleeing away the waters came upon them, and the Lord shut them up in the middle of the waves.  And the waters returned, and covered the chariots and the horsemen of all the army of Pharao, who had come into the sea after them: neither did there so much as one of them remain.  But the children of Israel marched through the midst of the sea upon dry land, and the waters were to thm as a wall on the right hand and the left: and the Lord delivered Israel on that day out of the hand of the Egyptians.  And they saw the Egyptians dead upon the sea shore, and the mighty hand of the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses His servant.  Then Moses and the children of Israel sung this canticle to the Lord, and said:
+In those days, it came to pass in the morning watch, and behold the Lord looking upon the Egyptian army through the pillar of fire, and of the cloud, slew their host: and overthrew the wheels of the chariots, and they were carried into the deep.  And the Egyptians said: Let us flee from Israel: for the Lord fighteth for them against us.  And the Lord said to Moses: Stretch forth thy hand over the sea, that the waters may come again upon the Egyptians, upon their chariots and horsemen.  And when Moses had stretched forth his hand towards the sea, it returned at the first break of day to the former place: and as the Egyptians were fleeing away the waters came upon them, and the Lord shut them up in the middle of the waves.  And the waters returned, and covered the chariots and the horsemen of all the army of Pharao, who had come into the sea after them: neither did there so much as one of them remain.  But the children of Israel marched through the midst of the sea upon dry land, and the waters were to them as a wall on the right hand and the left: and the Lord delivered Israel on that day out of the hand of the Egyptians.  And they saw the Egyptians dead upon the sea shore, and the mighty hand of the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses His servant.  Then Moses and the children of Israel sung this canticle to the Lord, and said:
 _
 _
 !TRACT 
@@ -195,7 +195,7 @@ $Qui tecum
 _
 _
 !The tenth Prophecy
-!Jonæ 3:1-10
+!JonÃ¦ 3:1-10
 And the word of the Lord came to Jonas the second time, saying: Arise, and go to Ninive the great city: and preach in it the preaching that I bid thee. And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey. And Jonas began to enter into the city one day's journey: and he cried, and said: Yet forty days, and Ninive shall be destroyed. And the men of Ninive believed in God: and they proclaimed a fast, and put on sackcloth from the greatest to the least. And the word came to the king of Ninive; and he rose up out of his throne, and cast away his robe from him, and was clothed with sackcloth, and sat in ashes. And he caused it to be proclaimed and published in Ninive from the mouth of the king and of his princes, saying: Let neither men nor beasts, oxen nor sheep, taste any thing: let them not feed, nor drink water. And let men and beasts be covered with sackcloth, and cry to the Lord with all their strength, and let them turn every one from his evil way, and from the iniquity that is in their hands. Who can tell if God will turn, and forgive: and will turn away from his fierce anger, and we shall not perish? And God saw their works, that they were turned from their evil way: and God had mercy with regard to the evil which he had said that he would do to them, and he did it not. 
 _
 _
@@ -257,7 +257,7 @@ V.  The Lord be with you.
 R.  And with thy spirit.
 v. Let us pray.
 O Almighty and eternal God, be present at these mysteries, be present at these sacraments of thy great goodness: and send forth the spirit of thy adoption to regenerate the new people, whom the font of baptism bringeth forth: that what is to be done by the ministry of us thy servants, may be accomplished by the effect of thy power. Through our Lord Jesus Christ thy Son, who with thee liveth and reigneth in the unity of the Holy Ghost, God,
-!Elevans vocem in modum Fræfationis, prosequitur junctis manibus:
+!Elevans vocem in modum FrÃ¦fationis, prosequitur junctis manibus:
 v. World without end.
 R. Amen.
 V.  The Lord be with you.
@@ -398,20 +398,20 @@ r. Christ, graciously hear us.
 _
 _
 ! The chanters now solemnly sing: Lord have mercy on us, Christ have mercy on us, Lord have mercy on us; each invocation three times. The priest starts the mass as usual
-P. In the name of the Father, + and of the Son, and of the Holy Ghost. Amen. I will go in unto the altar of God.
+P. In the name of the Father, + and of the Son, and of the Holy Ghost. Amen. I will go in to the altar of God.
 S. To God who giveth joy to my youth.
 ! The priest alternates with the server in reciting this psalm to express his desire, joy and confidence in going to the altar of the Sacrifice.
 !Ps. 42, 1-5.
 P. Judge me, O God, and distinguish my cause from the nation which is not holy: deliver me from the unjust and deceitful man.
 S. For Thou, O God, art my strength: why hast Thou cast me off? and why go I sorrowful whilst the enemy afflicteth me?
 P. Send forth Thy light and Thy truth: they have conducted me and brought me unto Thy holy mount, and into Thy tabernacles.
-S. And I will go into the altar of God: to God who giveth joy to my youth.
+S. And I will go in to the altar of God: to God who giveth joy to my youth.
 P. To Thee, O God, my God, I will give praise upon the harp; why art thou sad, O my soul, and why dost thou disquiet me?
 S. Hope in God, for I will still give praise to Him: the salvation of my countenance and my God.
 P. Glory be to the Father, and to the Son, and to the Holy Ghost.
 S. As it was in the beginning, is now, and ever shall be, world without end. Amen.
 ! The priest repeats the Anthem:
-P. I will go in unto the altar of God.
+P. I will go in to the altar of God.
 S. To God who giveth joy to my youth.
 _
 _
@@ -511,7 +511,7 @@ P. The Lord be with you.
 S. And with thy spirit.
 Continuation ++ of the holy Gospel according to St. Matthew. 
 !Matt 28:1-7
-And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake. For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightening and his raiment as snow. And for fear of him the guards were struck with terror and became as dead men. And the Angel answering, said to the women: Fear not you: for I know that you seek Jesus who was crucified: He is not here: for His is risen, as He said. Come and see the place where the Lord was laid. And going quickly, tell ye His disciples that He is risen: and behold He will go before you into Galilee: there you shall see Him. Lo, I have foretold it to you.
+And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake. For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightening and his raiment as snow. And for fear of him the guards were struck with terror and became as dead men. And the Angel answering, said to the women: Fear not you: for I know that you seek Jesus who was crucified: He is not here: for He is risen, as He said. Come and see the place where the Lord was laid. And going quickly, tell ye His disciples that He is risen: and behold He will go before you into Galilee: there you shall see Him. Lo, I have foretold it to you.
 $Laus tibi
 _
 _
@@ -641,7 +641,7 @@ _
 v. Remember also, O Lord, Thy servants and handmaids N. and N., who are gone before us with the sign of faith, and rest in the sleep of peace.wait10 (He joins his hands and prays for such of the dead as he intends to pray for, then extending his hands he proceeds:) To these, O Lord, and to all that rest in Christ, grant, we beseech Thee, a place of refreshment, light, and peace; (He joins his hands, and bows his head:) Through the same Christ our Lord. Amen.
 _
 _
-! pronounces in a somewhat elevated tone of voice, to symbolize an act of public self-humiliation; at the same time he strikes his breast in a token of contrition.
+! Pronounces in a somewhat elevated tone of voice, to symbolize an act of public self-humiliation; at the same time he strikes his breast in a token of contrition.
 v. To us also, Thy sinful servants, confiding in the multitude of Thy mercies, vouchsafe to grant some part and fellowship with Thy holy Apostles and Martyrs, with John, Stephen, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Peter, Felicitas, Perpetua, Agatha, Lucy, Agnes, Cecilia, Anastasia, and with all Thy Saints, into whose company we beseech Thee to admit us, not weighing our merits, but pardoning our offenses. (He joins his hands.) Through Christ our Lord.
 _
 _
@@ -762,11 +762,11 @@ _
 V.  The Lord be with you.
 R.  And with thy spirit.
 ! Deacon sings turning toward the people:
-v. Go, the Mass is ended. allelúja, allelúja. 
-R. Thanks be to God. allelúja, allelúja.
+v. Go, the Mass is ended. allelÃºja, allelÃºja. 
+R. Thanks be to God. allelÃºja, allelÃºja.
 _
 _
-! Et Sacerdos dicto Pláceat tihi, sancta Trinitas, dat benedictionem more solito
+! Et Sacerdos dicto PlÃ¡ceat tihi, sancta Trinitas, dat benedictionem more solito
 v. May the performance of my homage be pleasing to Thee, O holy Trinity: and grant that the Sacrifice which I, though unworthy, have offered up in the sight of Thy Majesty, may be acceptable to Thee, and through Thy mercy, be a propitiation for me, and for all those for whom I have offered it. Through Christ our Lord. Amen. 
 _
 _

@@ -32,7 +32,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccli 24:5; 24:7, 24:9-11; 24:30-31
+!Eccli 24:5, 7, 9-11, 30-31
 Ego ex ore Altissimi prodivi, primo- 2685 genita ante omnem creaturam; ego in altissimis habitavi, et thronus meus in columna nubis. In omni terra steti; et in omni populo, et in omni gente primatum habui, et omnium excellentium et humilium corda virtute calcavi. Qui audit me, non confundetur, et qui operantur in me, non peccabunt; qui elucidant me, vitam aeternam habebunt.
 
 [GradualeP]
@@ -77,15 +77,15 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !Pro S. Petronilla
-Exáudi nos, Deux, salutáris noster: ut, sicut beátæ Petroníllæ Vírginis tuæ festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu.
+ExÃ¡udi nos, Deux, salutÃ¡ris noster: ut, sicut beÃ¡tÃ¦ PetronÃ­llÃ¦ VÃ­rginis tuÃ¦ festivitÃ¡te gaudÃ©mus; ita piÃ¦ devotiÃ³nis erudiÃ¡mur affÃ©ctu.
 $Per Dominum
 
 [Commemoratio Secreta]
 !Pro S. Petronilla
-Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.
+AccÃ©pta tibi sit, DÃ³mine, sacrÃ¡tÃ¦ plebis oblÃ¡tio pro tuÃ³rum honÃ³re SanctÃ³rum: quorum se mÃ©ritis de tribulatiÃ³ne percepÃ­sse cognÃ³scit auxÃ­lium.
 $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro S. Petronilla
-Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quaesumus, semper interventióne nos réfove, cujus sollémnia celebrámus
+SatiÃ¡sti, DÃ³mine, famÃ­liam tuam munÃ©ribus sacris: ejus, quaesumus, semper interventiÃ³ne nos rÃ©fove, cujus sollÃ©mnia celebrÃ¡mus
 $Per Dominum

@@ -1,13 +1,19 @@
 [Rank]
 S. Benedicti Abbatis;;Duplex majus;;4;;vide C4c
 
+[Rank](rubrica Rubrics 1960)
+S. Benedicti Abbatis;;Duplex;;3;;vide C4c
+
+[RankNewcal]
+S. Benedicti Abbatis;;Duplex majus;;3.1;;vide C4c
+
 [Rule]
 vide C4c;
 Gloria
 
 [Oratio]
-Intercessio nos, quǽsumus, Dómine, beati Benedícti Abbatis commendet: ut quod~
-nostris meritis non valemus, ejus patrocinio assequamur.
+Intercéssio nos, quǽsumus, Dómine, beáti Benedícti Abbátis comméndet: ut quod~
+nostris méritis non valémus, ejus patrocínio assequámur.
 $Per Dominum
 
 [Secreta]

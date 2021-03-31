@@ -4,14 +4,11 @@ Feria Quarta Quattuor Temporum Pentecostes;;Semiduplex I classis;;5;;ex Pasc7-0
 [Rank1960]
 Feria Quarta Quattuor Temporum Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 
-[RankNewcal]
-Feria IV post Pentecostes;;Feria;;1;;
-
 [Rule]
 LectioL1
-Gloria
+no Gloria
 Sequentia
-Suffr=Ecclesiae;Papa
+Suffr=Ecclesiæ;Papa
 Credo
 Prefatio=Spiritu
 
@@ -40,7 +37,10 @@ $Deo gratias
 [GradualeL1]
 Alleluia.
 !Ps 32:6
-Verbo Dómini cœli firmáti sunt, et Spíritu oris ejus omnis virtus eórum. 
+Verbo Dómini cœli firmáti sunt, et Spíritu oris ejus omnis virtus eórum.
+_
+#Gloria
+v. Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex cæléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu + in glória Dei Patris. Amen.
 
 [OratioL1]
 Præsta, quǽsumus, omnípotens et miséricors Deus: ut Spíritus Sanctus advéniens,~
@@ -61,7 +61,7 @@ ignem accénde.
 @Tempora/Pasc7-0:Sequentia
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Joánnem.
+Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joannes 6:44-52
 In illo témpore: Dixit Jesus turbis Judæórum: Nemo potest veníre ad me, nisi~
 Pater, qui misit me, tráxerit eum: et ego resuscitábo eum in novíssimo die. Est~

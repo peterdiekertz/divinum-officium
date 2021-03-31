@@ -22,7 +22,7 @@ be made safe from all harm.
 $Per Dominum
 
 [Commemoratio Oratio]
-!For ST. MENNAS
+!For St. Mennas
 Grant, we beseech You, almighty God, that we, who honor the anniversary of the~
 death of blessed Mennas, Your Martyr, may by his intercession be strengthened in~
 love of Your name.
@@ -30,11 +30,11 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Sir 44:16-27: 45:3-20
+!Sir 44:16-27; 45:3-20
 Behold, a great priest, who in his days pleased God, and was found just; and in the time of wrath he was made a reconciliation. There was not found the like to him, who kept the law of the Most High. Therefore, by an oath, the Lord made him to increase among his people. He gave him the blessing of all nations, and confirmed His covenant upon his head. He acknowledged him in His blessings; He preserved for him His mercy; and he found grace before the eyes of the Lord. He glorified him in the sight of kings, and gave him a crown of glory. He made an everlasting covenant with him, and gave him a great priesthood; and made him blessed in glory. To execute the office of the priesthood, and to have praise in His name, and to offer Him a worthy incense for an odor of sweetness.
 
 [Graduale]
-!Sir 44:16, 20.
+!Sir 44:16, 20
 Behold a great priest, who in his days pleased God.
 V. There was not found the like to him, who kept the law of the Most High.~
 Alleluia, alleluia.
@@ -65,7 +65,7 @@ misfortune, may always be directed aright.
 $Per Dominum
 
 [Commemoratio Secreta]
-!For ST. MENNAS
+!For St. Mennas
 Now that You have received our gifts and prayers, we beseech You, O Lord,~
 cleanse us by Your heavenly mysteries and in Your mercy, hear us.
 $Per Dominum
@@ -81,7 +81,7 @@ our salvation, by the intercession of those on whose feast-day it is offered.
 $Per Dominum
 
 [Commemoratio Postcommunio]
-!For ST. MENNAS
+!For St. Mennas
 Grant, we beseech You, O Lord our God, that we who in this life joyously assist~
 in the veneration of Your Saints, may rejoice in beholding them forever in~
 heaven.

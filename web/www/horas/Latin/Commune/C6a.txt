@@ -19,7 +19,7 @@ V. Adducéntur Regi vírgines post eam:
 R. Próximæ ejus afferéntur tibi.
 
 [Ant 1]
-Prudéntes vírgines, * aptate vestras lámpades: ecce sponsus venit, exíte obviam ei.
+Prudéntes vírgines, * aptáte vestras lámpades: ecce sponsus venit, exíte óbviam ei.
 
 [Invit]
 @Commune/C6:Invit
@@ -120,7 +120,7 @@ v. Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte 
 @Commune/C6:Responsory Sexta
 
 [Capitulum Nona1]
-@Commune/C6:Capitulum Nona1
+@Commune/C6:Capitulum Nona
 
 [Capitulum Nona]
 @Commune/C6:Capitulum Nona

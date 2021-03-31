@@ -15,7 +15,7 @@ In patiéntia vestra * possidébitis ánimas vestras.;;116
 [Capitulum Vespera]
 !Eph 2:19
 v. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, ipso summo angulári lápide Christo Jesu.
-$Deo gratias.
+$Deo gratias
 
 [Hymnus Vespera]
 {:H-Exsultetorbisgaudiis:}v. Exsúltet orbis gáudiis:
@@ -50,35 +50,35 @@ Sæclum per omne glória.
 Amen.
 
 [HymnusM Vespera]
-{:H-Exsultetorbisgaudiis:}v. Exsúltet cælum láudibus,
-resúltet terra gáudiis:
+Exsúltet cælum láudibus,
+Resúltet terra gáudiis:
 Apostolórum glóriam
-sacra canunt solémnia.
+Sacra canunt solémnia.
 _
-Vos, sæcli iusti iúdices
-et vera mundi lúmina,
-votis precámur córdium,
-audíte preces súpplicum.
+Vos sæcli justi júdices,
+Et vera mundi lúmina,
+Votis precámur córdium,
+Audíte preces súpplicum.
 _
-Qui cælum verbo cláuditis
-serásque eius sólvitis,
-nos a peccátis ómnibus
-sólvite iussu, quǽsumus.
+Qui cælum verbo cláuditis,
+Serásque ejus sólvitis:
+Nos a peccátis ómnibus
+Sólvite jussu, quǽsumus.
 _
-Quorum præcépto súbditur
-salus et languor ómnium,
-sanáte ægros móribus,
-nos reddéntes virtútibus,
+Quorum præcépto súbditur,
+Salus, et languor ómnium:
+Sanáte ægros móribus,
+Nos reddéntes virtútibus.
 _
-Ut, cum iudex advénerit
+Ut, cum Judex advénerit
 Christus in fine sǽculi,
-nos sempitérni gáudii
-fáciat esse cómpotes.
+Nos sempitérni gáudii
+Fáciat esse cómpotes.
 _
-Deo sint laudes glóriæ,
-qui dat nos evangélicis
-per vos doctrínis ínstrui
-et prósequi cæléstia.
+Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Et nunc, et in perpétuum.
 Amen.
 
 [Versum 1]
@@ -90,6 +90,33 @@ Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et an
 
 [Invit]
 Regem Apostolórum Dóminum, * Veníte adorémus.
+
+[HymnusM Matutinum]
+v. Ætérna Christi múnera,
+Apostolórum glóriam,
+Laudes canéntes débitas
+Lætis canámus méntibus.
+_
+Ecclesiárum Príncipes,
+Belli triumpháles Duces,
+Cæléstis aulæ mílites,
+Et vera mundi lúmina.
+_
+Devóta Sanctórum fides,
+Invícta spes credéntium,
+Perfécta Christi cáritas
+Mundi triúmphat príncipem.
+_
+In his Patérna glória,
+In his volúntas Spíritus,
+Exsúltat in his Fílius,
+Cælum replétur gáudio.
+_
+Te nunc, Redémptor, quǽsumus,
+Ut ipsórum consórtio
+Iungas precántes sérvulos
+In sempitérna sǽcula.
+Amen.
 
 [Hymnus Matutinum]
 {:H-AeternaChristi:}v. Ætérna Christi múnera,
@@ -129,9 +156,9 @@ Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
 Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
 V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui, Dómine.
-Exaltabúntur * córnua justi. Allelúia.;;74
-Lux orta est * justo, allelúia, rectis corde lætítia. Allelúia.;;96
-Custodiébant * testimónia ejus, et præcépta ejus. Allelúia.;;98
+Exaltabúntur * córnua justi. Allelúja.;;74
+Lux orta est * justo, allelúja, rectis corde lætítia. Allelúja.;;96
+Custodiébant * testimónia ejus, et præcépta ejus. Allelúja.;;98
 V. Nimis honoráti sunt amíci tui Deus.
 R. Nimis confortátus est principátus eórum.
 
@@ -175,14 +202,14 @@ R. Jugum enim meum suáve est, et onus meum leve.
 [Responsory3]
 R. Dum stetéritis ante reges et prǽsides, nolíte cogitáre quómodo aut quid loquámini:
 * Dábitur enim vobis in illa hora, quid loquámini.
-V. Non enim vos estis qui loquímini: sed Spíritus Pátris vestri, qui lóquitur in vobis.
+V. Non enim vos estis qui loquímini: sed Spíritus Patris vestri, qui lóquitur in vobis.
 R. Dábitur enim vobis in illa hora, quid loquámini.
 &Gloria
 R. Dábitur enim vobis in illa hora, quid loquámini.
 
 [Lectio4]
 Sermo sancti Gregórii Papæ
-!Homilía 30 in Evangelia, post medium
+!Homilia 30 in Evangelia, post medium
 Scriptum est: Spíritus Dómini ornávit cælos. Ornaménta enim cælórum sunt virtútes prædicántium. Quæ vidélicet ornaménta Paulus enúmerat, dicens: Álii datur per Spíritum sermo sapiéntiæ, álii sermo sciéntiæ secúndum eúndem Spíritum, álteri fides in eódem Spíritu, álii grátia sanitátum in uno Spíritu, álii operátio virtútum, álii prophetía, álii discrétio spirítuum, álii génera linguárum, álii interpretátio sermónum. Hæc autem ómnia operátur unus atque idem Spíritus, dívidens síngulis prout vult.
 
 [Responsory4]
@@ -192,7 +219,7 @@ V. Vidi Ángelum Dei fortem, volántem per médium cælum, voce magna clamántem
 R. Isti sunt viri sancti facti amíci Dei.
 
 [Lectio5]
-Quot ergo sunt bona prædicántium, tot sunt ornaménta cælórum. Hinc rursus scriptum est: Verbo Dómini cæli firmáti sunt. Verbum enim Dómini Fílius est Pátris. Sed eósdem cælos, vidélicet sanctos Apóstolos, ut tota simul sancta Trínitas ostendátur operáta, repénte de Sancti Spíritus divinitáte adjúngitur: Et Spíritu oris ejus omnis virtus eórum. Cælórum ergo virtus de Spíritu sumpta est: quia mundi hujus potestátibus contraíre non præsúmerent, nisi eos Sancti Spíritus fortitúdo solidásset. Quales namque doctóres sanctæ Ecclésiæ ante advéntum hujus Spíritus fúerint, scimus: et post advéntum illíus, cujus fortitúdinis facti sint, conspícimus.
+Quot ergo sunt bona prædicántium, tot sunt ornaménta cælórum. Hinc rursus scriptum est: Verbo Dómini cæli firmáti sunt. Verbum enim Dómini Fílius est Patris. Sed eósdem cælos, vidélicet sanctos Apóstolos, ut tota simul sancta Trínitas ostendátur operáta, repénte de Sancti Spíritus divinitáte adjúngitur: Et Spíritu oris ejus omnis virtus eórum. Cælórum ergo virtus de Spíritu sumpta est: quia mundi hujus potestátibus contraíre non præsúmerent, nisi eos Sancti Spíritus fortitúdo solidásset. Quales namque doctóres sanctæ Ecclésiæ ante advéntum hujus Spíritus fúerint, scimus: et post advéntum illíus, cujus fortitúdinis facti sint, conspícimus.
 
 [Responsory5]
 R. Beáti estis, cum maledíxerint vobis hómines, et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me:
@@ -227,7 +254,7 @@ V. In omnem terram exívit sonus eórum, et in fines orbis terræ verba eórum.
 R. Cálicem Dómini bibérunt, et amíci Dei facti sunt.
 
 [Lectio8]
-In regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ (quando et mórtui de corruptióne resúrgent incorrúpti) sedébitis et vos in sóliis judicántium, condemnántes duódecim tribus Ísraël: quia vobis credéntibus, illi crédere noluérunt Et omnis qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros propter nomen meum, centúplum accípiet, et vitam ætérnam possidébit. Locus iste cum illa senténtia cóngruit, in qua Salvátor lóquitur: Non veni pacem míttere, sed gládium. Veni enim separáre hóminem a pátre suo, et matrem a fília, et nurum a socru: et inimíci hóminis doméstici ejus. Qui ergo propter fidem Christi, et prædicatiónem Evangélii, omnes afféctus contémpserint, atque divítias et sǽculi voluptátes: isti centúplum recípient, et vitam ætérnam possidébunt.
+In regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ (quando et mórtui de corruptióne resúrgent incorrúpti) sedébitis et vos in sóliis judicántium, condemnántes duódecim tribus Ísraël: quia vobis credéntibus, illi crédere noluérunt. Et omnis qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros propter nomen meum, centúplum accípiet, et vitam ætérnam possidébit. Locus iste cum illa senténtia cóngruit, in qua Salvátor lóquitur: Non veni pacem míttere, sed gládium. Veni enim separáre hóminem a patre suo, et matrem a fília, et nurum a socru: et inimíci hóminis doméstici ejus. Qui ergo propter fidem Christi, et prædicatiónem Evangélii, omnes afféctus contémpserint, atque divítias et sǽculi voluptátes: isti centúplum recípient, et vitam ætérnam possidébunt.
 
 [Responsory8]
 R. Isti sunt viri sancti, quos elégit Dóminus in caritáte non ficta, et dedit illis glóriam sempitérnam:
@@ -255,6 +282,9 @@ $Deo gratias.
 
 [Hymnus Laudes]
 @Commune/C1:Hymnus Vespera
+
+[HymnusM Laudes]
+@Commune/C1:HymnusM Vespera
 
 [Versum 2]
 V. Annuntiavérunt ópera Dei.
@@ -327,4 +357,4 @@ Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138
 @:Versum 2
 
 [Ant 3]
-Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum. Allelúia.
+Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum. Allelúja.

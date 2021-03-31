@@ -6,8 +6,8 @@ Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-Hæc est Virgo sapiens, * et una de número prudéntum.;;109
-Hæc est Virgo sapiens, * quam Dóminus vigilántem invénit.;;112
+Hæc est Virgo sápiens, * et una de número prudéntum.;;109
+Hæc est Virgo sápiens, * quam Dóminus vigilántem invénit.;;112
 Hæc est quæ nescívit * torum in delícto: habébit fructum in respectióne animárum sanctárum.;;121
 Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;126
 Ista est speciósa * inter fílias Jerúsalem.;;147
@@ -44,6 +44,9 @@ Sancto simul Paráclito,
 In sæculórum sǽcula.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera:s/pergis/pascis/ s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
+
 [Versum 1]
 V. Spécie tua et pulchritúdine tua.
 R. Inténde, próspere procéde, et regna.
@@ -53,6 +56,33 @@ Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in æt
 
 [Invit]
 Regem Vírginum Dóminum, * Veníte, adorémus.
+
+[HymnusM Matutinum]
+v. Vírginis Proles, Opiféxque Matris,
+Virgo quem gessit, peperítque Virgo:
+Vírginis festum cánimus trophǽum
+Accipe votum.
+_
+Hæc tua Virgo dúplici beáta
+Sorte, dum gestit frágilem domáre
+Córporis sexum, dómuit cruéntum
+Corpóre sǽclum.
+_
+Unde nec mortem, nec amíca mortis
+Sæva pœnárum génera pavéscens,
+Sánguine fuso méruit sacratum
+Scándere cælum.
+_
+Huius obténtu, Deus alme, nobis
+Parce iam culpis, vitia remíttens,
+Quo tibi puri resonémus almum
+Péctoris hymnum.
+_
+Glória Patri genitǽque Proli,
+Et tibi compar utriúsque semper
+Spíritus alme, Deus unus, omni
+Témpore sæcli.
+Amen.
 
 [Hymnus Matutinum]
 {:H-Virginisproles:}v. Vírginis Proles Opiféxque Matris,
@@ -66,7 +96,7 @@ Córporis sexum, dómuit cruéntum
 Cæde tyránnum.
 _
 Unde nec mortem, nec amíca mortis
-Mille pœnárum genera expavéscens,
+Mille pœnárum génera expavéscens,
 Sánguine effúso méruit serénum
 Scándere cælum.
 _
@@ -79,6 +109,18 @@ Sit decus Patri, genitǽque Proli,
 Et tibi, compar utriúsque virtus,
 Spíritus semper, Deus unus, omni
 Témporis ævo.
+Amen.
+
+[HymnusM Matutinum 1]
+v. Huius obténtu, Deus alme, nobis
+Parce iam culpis, vitia remíttens,
+Quo tibi puri resonémus almum
+Péctoris hymnum.
+_
+Glória Patri genitǽque Proli,
+Et tibi compar utriúsque semper
+Spíritus alme, Deus unus, omni
+Témpore sæcli.
 Amen.
 
 [Hymnus Matutinum 1]
@@ -220,7 +262,7 @@ Sed prius quæréndum nobis est quid sit regnum cælórum, aut cur decem virgín
 R. Média nocte clamor factus est:
 * Ecce sponsus venit, exíte óbviam ei.
 V. Prudéntes vírgines, aptáte vestras lámpades.
-R. Ecce sponsus venit, exíte oóviam ei.
+R. Ecce sponsus venit, exíte óbviam ei.
 &Gloria
 R. Ecce sponsus venit, exíte óbviam ei.
 
@@ -229,8 +271,8 @@ In quinque autem corporis sensibus unusquísque subsistit;  geminátus autem qui
 &teDeum
 
 [Ant Laudes]
-Hæc est Virgo sapiens, * et una de número prudéntum.;;
-Hæc est Virgo sapiens, * quam Dóminus vigilántem invénit.;;
+Hæc est Virgo sápiens, * et una de número prudéntum.;;
+Hæc est Virgo sápiens, * quam Dóminus vigilántem invénit.;;
 Hæc est quæ nescívit * torum in delícto: habébit fructum in respectióne animárum sanctarum.;;
 Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;
 Ista est speciósa * inter filias Jerúsalem.;;
@@ -240,6 +282,9 @@ Ista est speciósa * inter filias Jerúsalem.;;
 
 [Hymnus Laudes]
 @Commune/C6:Hymnus Vespera
+
+[HymnusM Laudes]
+@Commune/C6:HymnusM Vespera
 
 [Versum 2]
 V. Diffúsa est grátia in lábiis tuis.

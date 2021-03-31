@@ -14,10 +14,10 @@
 01-13=01-13=Die Octava Epiphaniae=4=
 01-14=01-14=S. Hilarii Episcopi Confessoris Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart=1=
 01-15=01-15=S. Pauli primi Eremitae et Confessoris=3=S. Mauri Abbatis=1=
-01-16=01-16t=S. Marcelli Papae et Martyris=2=
+01-16=01-16=S. Marcelli Papae et Martyris=2=
 01-17=01-17=S. S. Antonii Abbatis=3=
 01-18=01-18=Cathedrae S. Petri=4=S Priscae Virginis=1=
-01-19=01-19t=S. Canuti Regis et Martyrum=2=Ss. Marii=Marthae=Audifacis et Abachum Mart=1=
+01-19=01-19o=S. Canuti Regis et Martyrum=2=Ss. Marii=Marthae=Audifacis et Abachum Mart=1=
 01-20=01-20=Ss. Fabiani et Sebastiani Martyrum=3=
 01-21=01-21=S. Agnetis Virginis et Martyris=3=
 01-22=01-22=Ss. Vincentii et Anastasii Martyrum=2=
@@ -58,7 +58,7 @@
 03-18=03-18=S. Cyrilli Episc Hierosolymitani Eccl Doct=3=
 03-19=03-19=S. Joseph sponsi BMV confessoris=6=
 03-21=03-21=S. Benedicti Abbatis=4=
-03-25=03-25=In Annuntiatione Beate Mariæ Virginis=6=
+03-25=03-25=In Annuntiatione Beate MariÃ¦ Virginis=6=
 *April*
 04-02=04-02=S. Francisci de Paula Confessoris=3=
 04-04=04-04=S. Isidori Episc Confessoris et Ecclesiae Doctoris=3=
@@ -171,14 +171,14 @@
 08-12=08-12=S. Clarae Virginis=3=
 08-13=08-13t=Quarta die infra Octavam S. Laurentii=2=
 08-14=08-14t=Quinta die infra Octavam S. Laurentii=2=Vigiliae Assumptionis Beatae Mariae Virginis=1.5=S. Eusebii=1=
-08-15=08-15=Assumptione Beatae Mariae Virginis=6= 
+08-15=08-15t=Assumptione Beatae Mariae Virginis=6= 
 08-16=08-16=S. Joachim Confessoris, Patris B Mariae Virginis=5=
 08-17=08-17t=Octava S. Laurentii Martyris=3=S. Hyacinty Martyri=1=
-08-18=08-18t=Quarta die infra Octavam S. Assumptionis=2=S. Agapiti Martyris=1=
+08-18=08-18=Quarta die infra Octavam S. Assumptionis=2=S. Agapiti Martyris=1=
 08-19=08-19t=Quinta die infra Octavam S. Assumptionis=2=
 08-20=08-20=S. Bernardi Abbatis et Ecclesiae Doctoris=3=
 08-21=08-21=S. Joanne Franciscae Fremiot de Chantal Viduae=3=
-08-22=08-22=In Octava Assumptionis BMV=3=Ss. Timothei=Hippolyti et Symphoriani Mart=1=
+08-22=08-22t=In Octava Assumptionis BMV=3=Ss. Timothei=Hippolyti et Symphoriani Mart=1=
 08-23=08-23=S. Philippi BenitiConfessoris=3=
 08-24=08-24=S. Bathalomaei Apostoli=5=
 08-25=08-25=S. Ludovioci Confessoris=3=
@@ -225,7 +225,7 @@
 10-09=10-09t=S. Dionysii Episcopi Rustici et Eleuthery Martyrum=2=
 10-10=10-10=S. Francisci Borgiae Confessoris=2=
 10-13=10-13=S. Eduardi Regis Confessoris=2=
-10-14=10-14t=S. Callisti Papae et Martyri=3=
+10-14=10-14=S. Callisti Papae et Martyri=3=
 10-15=10-15=S. Teresiae Virginis=3=
 10-17=10-16=S. Hedwigis Viduae=2=
 10-18=10-18=S. Lucae Evangelistae=5=
@@ -239,7 +239,7 @@
 10-31=10-31=In Vigilia Omnium Sanctorum=1.5=
 *November*
 11-01=11-01=Omnium Sanctorum=6=
-11-02=11-02t=Secunda die infra Octavam Omnium Sanctorum=2=
+11-02=11-02=Commemoratio Omnium Fidelium Defunctorum=3=
 11-03=11-03=Tertia die infra Octavam Omnium Sanctorum=2=
 11-04=11-04=S. Caroli Episcopi et Confessoris=3=Octavae Omnium Sanctorum=1.5=Ss. Mart Vitalis et Agricolae=1=
 11-05=11-05=Quinta die infra Octavam Omnium Sanctorum=2=
